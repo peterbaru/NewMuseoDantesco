@@ -19,15 +19,15 @@ per mare andasse al voler vostro e mio;                  4
 sì che fortuna od altro tempo rio
 non ci potesse dare impedimento,
 anzi, vivendo sempre in un talento,
-di stare insieme crescesse ’l disio.                            8
+di stare insieme crescesse ’l disio.                     8
 
 E monna Vanna e monna Lagia poi
 con quella ch’è sul numer de le trenta
-con noi ponesse il buono incantatore:               11
+con noi ponesse il buono incantatore:                   11
 
 e quivi ragionar sempre d’amore,
 e ciascuna di lor fosse contenta,
-sì come i’ credo che saremmo noi.                      14
+sì come i’ credo che saremmo noi.                       14
 
 
 **Rime della maturità - Così nel mio parlar vogli’esser aspro**
@@ -37,23 +37,23 @@ Così nel mio parlar voglio esser aspro
 com’è ne li atti questa bella petra,
 la quale ognora impetra
 maggior durezza e più natura cruda,
-e veste sua persona d’un diaspro                             5
+e veste sua persona d’un diaspro                          5
 tal che per lui, o perch’ella s’arretra,
 non esce di faretra
 saetta che già mai la colga ignuda;
 ed ella ancide, e non val ch’om si chiuda
-né si dilunghi da’ colpi mortali,                                 10
+né si dilunghi da’ colpi mortali,                         10
 che, com’avesser ali,
 giungono altrui e spezzan ciascun’arme:
 sì ch’io non so da lei né posso atarme.
 
 Non trovo scudo ch’ella non mi spezzi
-né loco che dal suo viso m’asconda:                      15
+né loco che dal suo viso m’asconda:                       15
 ché, come fior di fronda,
 così de la mia mente tien la cima.
 Cotanto del mio mal par che si prezzi
 quanto legno di mar che non lieva onda;
-e ’l peso che m’affonda                                            20
+e ’l peso che m’affonda                                   20
 è tal che non potrebbe adequar rima.
 Ahi angosciosa e dispietata lima
 che sordamente la mia vita scemi,
@@ -69,17 +69,17 @@ Tre donne intorno al cor mi son venute,
 e seggonsi di fore:
 ché dentro siede Amore,
 lo quale è in segnoria de la mia vita.
-Tanto son belle e di tanta vertute                      5
+Tanto son belle e di tanta vertute                       5
 che ’l possente segnore,
 dico quel ch’è nel core,
 a pena del parlar di lor s’aita.
 Ciascuna par dolente e sbigottita,
-come persona discacciata e stanca,                 10
+come persona discacciata e stanca,                       10
 cui tutta gente manca
 e cui vertute né beltà non vale.
 Tempo fu già nel quale,
 secondo il lor parlar, furon dilette;
-or sono a tutti in ira ed in non cale.            15
+or sono a tutti in ira ed in non cale.                   15
 Queste così solette
 venute son come a casa d’amico:
 ché sanno ben che dentro è quel ch’io dico.
@@ -101,20 +101,20 @@ In questo capitolo è incluso il sonetto più celebre di Dante, nonché il testo
 Tanto gentile e tanto onesta pare
 la donna mia quand’ella altrui saluta,
 ch’ogne lingua deven tremando muta,
-e li occhi no l’ardiscon di guardare.                4
+e li occhi no l’ardiscon di guardare.                    4
 
 Ella si va, sentendosi laudare,
 benignamente d’umiltà vestuta;
 e par che sia una cosa venuta
-da cielo in terra a miracol mostrare.                8
+da cielo in terra a miracol mostrare.                    8
 
 Mostrasi sì piacente a chi la mira,
-che dà per li occhi una dolcezza al core,
-che ’ntender no la può chi non la prova:         11
+che dà per li occhi una dolcezza al core, 
+che ’ntender no la può chi non la prova:                11
 
 e par che de la sua labbia si mova
 un spirito soave pien d’amore,
-che va dicendo a l’anima: Sospira.                 14
+che va dicendo a l’anima: Sospira.                      14
 
 
 **Testi sul dolore - Videro li occhi miei quanta pietate, capitolo XXXV**Testi della maturità - Oltre la spera che più larga gira, capitolo XLI
@@ -122,21 +122,21 @@ Qui viene celebrata la gloria di Beatrice in Paradiso e segnata la fine dell'inf
 
 Oltre la spera che più larga gira
 passa ’l sospiro ch’esce del mio core:
-intelligenza nova, che l’Amore
-piangendo mette in lui, pur su lo tira.            4
+intelligenza nova, che l’Amore  
+piangendo mette in lui, pur su lo tira.                4
 
 Quand’elli è giunto là dove disira,
 vede una donna, che riceve onore,
 e luce sì, che per lo suo splendore  
-lo peregrino spirito la mira.                            8
+lo peregrino spirito la mira.                          8
 
 Vedela tal, che quando ’l mi ridice,
-io no lo intendo, sì parla sottile
-al cor dolente, che lo fa parlare.                   11
+io no lo intendo, sì parla sottile 
+al cor dolente, che lo fa parlare.                     11
 
 So io che parla di quella gentile,
 però che spesso ricorda Beatrice,
-sì ch’io lo ’ntendo ben, donne mie care.      14
+sì ch’io lo ’ntendo ben, donne mie care.               14
 
 
 #### Testo: Convivio
@@ -150,23 +150,21 @@ La prima età identificata è quella dell’“adolescenzia” che va dalla nasc
 Della prima (adolescenzia) nullo dubita, ma ciascuno savio s'acorda ch'ella dura in fino al venticinquesimo anno; e però che infino a quel tempo l'anima nostra intende allo crescere e allo abellire del corpo, onde molte e grandi transmutazioni sono nella persona, non puote perfettamente la razionale parte discernere. Per che la Ragione vuole che dinanzi a quella etade l'uomo non possa certe cose fare sanza curatore di perfetta etade.
 
 
-Gioventute - Trattato IV, capitolo XXIV
-La seconda età con la quale si relazionano le persone è quella della “gioventute” che dura dal termine della adolescenzia (dai 25 anni) fino all’età matura, ovvero i 45 anni. Le virtù che chi vive questa età dovrebbe ambire sono la temperanza, la forza, l’amore (governato dalla ragione), la cortesia e la lealtà. Questa è l’età più rilevante per Dante, il centro della vita dell’uomo e la più importante da vivere. Il culmine massimo della nostra vita, il momento più rilevante che possiamo vivere è quello dei 35 anni, che segna la metà di questa età.
-
-Della seconda, la quale veramente è colmo della nostra vita, diversamente è preso lo tempo da molti. Ma, lasciando ciò che ne scrivono li filosofi e li medici, e tornando alla ragione propia, dico che nelli più, nelli quali prendere si puote e dee ogni naturale giudicio, quella etade è venti anni. E la ragione che ciò mi dà si è che, se 'l colmo del nostro arco è nelli trentacinque, tanto quanto questa etade ha di salita tanto dee avere di scesa; e quella salita e quella scesa è quasi lo tenere dell'arco, nel quale poco di flessione si discerne. Avemo dunque che la gioventute nel quarantacinquesimo anno si compie
+**Gioventute - Trattato IV, capitolo XXIV**
+La seconda età con la quale si relazionano le persone è quella della “gioventute” che dura dal termine della adolescenzia (dai 25 anni) fino all’età matura, ovvero i 45 anni. Le virtù che chi vive questa età dovrebbe ambire sono la temperanza, la forza, l’amore (governato dalla ragione), la cortesia e la lealtà. Questa è l’età più rilevante per Dante, il centro della vita dell’uomo e la più importante da vivere. Il culmine massimo della nostra vita, il momento più rilevante che possiamo vivere è quello dei 35 anni, che segna la metà di questa età. Della seconda, la quale veramente è colmo della nostra vita, diversamente è preso lo tempo da molti. Ma, lasciando ciò che ne scrivono li filosofi e li medici, e tornando alla ragione propia, dico che nelli più, nelli quali prendere si puote e dee ogni naturale giudicio, quella etade è venti anni. E la ragione che ciò mi dà si è che, se 'l colmo del nostro arco è nelli trentacinque, tanto quanto questa etade ha di salita tanto dee avere di scesa; e quella salita e quella scesa è quasi lo tenere dell'arco, nel quale poco di flessione si discerne. Avemo dunque che la gioventute nel quarantacinquesimo anno si compie
 
 
-Senettute e Senio - Trattato IV, capitolo XXIV
+**Senettute e Senio - Trattato IV, capitolo XXIV**
 La terza età che l’uomo si trova a vivere è quella del Senio, che va tra i 45 e i 70 anni. Dante la identifica come una adolescenzia che si compie, invece che prima, dopo la gioventute. I cardini fondamentali che caratterizzano questa età secondo il Sommo Poeta dovrebbero essere: prudenza, giustizia, liberalità e affidabilità. Dopo a questa segue il Senio, ma quest’ultima età non e caratterizzata da nessuna qualità intrinseca. La senettute è l'età della vita alla quale si ferma Dante, infatti il Sommo Poeta morì a Ravenna nel 1321 per via della malaria contratta dal ritorno da Venezia.
 
 E sì come l'adolescenza è in venticinque anni, che precede, montando, alla gioventute, così lo discendere, cioè la senettute, è altrettanto tempo che succede alla gioventute; e così si termina la senettute nel settantesimo anno. Ma però che l'adolescenza non comincia dal principio della vita, pigliandola per lo modo che detto è, ma presso ad otto anni dopo quello; e però che la nostra natura si studia di salire, e allo scendere raffrena, però che 'l caldo naturale è menomato e puote poco, e l'umido è ingrossato (non per in quantitade, ma pur in qualitade, sì ch'è meno vaporabile e consumabile), aviene che oltre la senettute rimane della nostra vita forse in quantitade di diece anni o poco più o poco meno: e questo tempo si chiama senio.
 
 
-Testo: Commedia
+#### Testo: Commedia
 Dante descrive la commedia come un viaggio affrontato quando si trova a metà del cammino della sua vita e lo aiuterà a far luce sul passato, sul presente e sul futuro. La commedia per alcuni aspetti può essere considerata un cammino a ritroso di crescita. Vengono perciò presi in considerazione momenti di vita differenti che lo aiutano nella riflessione. Infatti durante il cammino il Poeta si ritroverà ad affrontare personaggi del suo passato, persone che gli predirranno il futuro e sarà così in grado di fare una riflessione sul presente, momento al centro della vita del poeta, ovvero all’età di 35 anni. 
 
 
-Passato - Purgatorio XXXI
+**Passato - Purgatorio XXXI**
 Il cammino che il poeta affronta nella commedia è un percorso a ritroso dalla maturità (Inferno) fino alla purezza del bambino (Paradiso) che raggiunge tramite la purificazione dei peccati (presenti nell’età adulta e meno in quella giovanile delle persone). Nel Paradiso terrestre, in una sorta di secondo battesimo, Dante viene immerso nel Leté il fiume dove si lavano le anime prima di salire al Paradiso per dimenticare le loro colpe terrene. Il fiume è collocato nell’Eden, paesaggio descritto dal poeta ispirandosi a quello della pineta di Classe vicino a Ravenna.
 
 Poi, quando il cor virtù di fuor rendemmi, 
@@ -186,7 +184,7 @@ abbracciommi la testa e mi sommerse
 ove convenne ch’io l’acqua inghiottissi.                	102
 
 
-Presente - Paradiso X
+**Presente - Paradiso X**
 Dante vede in Paradiso nel IV cielo il filosofo Severino Boezio del quale ha studiato le opere. Il poeta conferma come precedentemente sostenuto dal filosofo che a un autore è concesso di parlare di se stesso nei propri scritti solo per due motivi: per difendersi o come portatore delle proprie azioni che possono essere un aiuto per chi legge. Questo aiuta il Dante personaggio del presente a descrivere il suo viaggio, che vuole essere una guida per tutti i mortali. Severino Boezio fu il principale consigliere di Teodorico. Il re nei suoi ultimi anni divenne sospettoso di tradimenti e lo fece giustiziare a Pavia.
 
 Per vedere ogni ben dentro vi gode 
@@ -197,7 +195,7 @@ Lo corpo ond’ella fu cacciata giace
 giuso in Cieldauro; ed essa da martiro 
 e da essilio venne a questa pace.                        129
 
-Futuro - Inferno XV
+**Futuro - Inferno XV**
 Durante il cammino Dante incontra diversi personaggi che gli predicono il futuro esilio, tra questi Brunetto Latini. Dante potrà quindi riflettere su quello che gli succederà andando a capire come si concluderà il suo percorso di vita. Il poeta nel testo si serve di queste profezie che ancora per il Dante personaggio devono accadere.
 
 Ed elli a me: «Se tu segui tua stella, 
@@ -232,8 +230,8 @@ in cui riviva la sementa santa
 di que’ Roman che vi rimaser quando 
 fu fatto il nido di malizia tanta».                      78
 
-Conversazioni su Dante
-Commedia in Romagnolo
+### Conversazioni su Dante
+#### Commedia in Romagnolo
 Paolo e Francesca, Canto V, Inferno
 
 La storia di Paolo e Francesca viene riportata da Dante nel V canto dell’Inferno dove si descrive il girone dei lussuriosi. Il poeta pur mostrando una profonda empatia nei confronti dei due dannati riconosce che il loro amore carnale fu un peccato benché più leggero di quello commesso da chi uccise entrambi. Ponendo i due amanti nell’Inferno Dante ritratta quanto affermato nella Vita Nova dove giustificava molte azioni svolte in segno di amore. 
@@ -296,7 +294,7 @@ Amor condusse noi ad una morte:
 Caina attende chi a vita ci spense». 
 Queste parole da lor ci fuor porte.                     	108
 
-Mosaici di Ravenna
+#### Mosaici di Ravenna
 Dante nella stesura della Divina Commedia ha probabilmente preso ispirazione dai mosaici delle basiliche della città di Ravenna per la descrizione di alcune aree dell’aldilà.  
 Il viaggio intrapreso nell’oltretomba può essere inteso come un’allegoria della vita: nella descrizione del percorso di crescita Dante si è forse ispirato al mosaico pavimentale di San Vitale che rappresenta un labirinto ad un'unica via ricco di curve. In particolare il mosaico riprende lo schema del purgatorio perché è un percorso che conduce le anime fino al centro del labirinto che simboleggia il paradiso terrestre.
 
@@ -314,19 +312,19 @@ per fuggir lui lasciò qui loco vòto
 quella ch’appar di qua, e sù ricorse»                   126
 
 
-Notizie su Ravenna
-Il tempietto progettato da Camillo Morigia come tomba del poeta presenta molte simbologie che si richiamano al mondo classico. Una di queste è l’uroboro, ovvero un serpente che si morde la coda formando un cerchio senza inizio né fine. È 
- quindi il simbolo dell’eternità e della ciclicità della vita. 
+#### Notizie su Ravenna
+Il tempietto progettato da Camillo Morigia come tomba del poeta presenta molte simbologie che si richiamano al mondo classico. Una di queste è l’uroboro, ovvero un serpente che si morde la coda formando un cerchio senza inizio né fine. È quindi il simbolo dell’eternità e della ciclicità della vita. 
 
 
 ## Dante nostro contemporaneo
 
-Tavolo Interattivo
-Testo: De vulgari eloquentia
+### Pagine Dantesche
+
+#### Testo: De vulgari eloquentia
 Uno dei punti cardine della poetica dantesca consiste nella necessità di comunicare con tutti. Il poeta con questo testo vuole cercare di identificare una lingua che sia di facile comprensione per tutti e che possa essere interpretata da tutti. Il testo è scritto in volgare e venne scritto tra il 1303 e il 1305. Il testo è scritto in latino, infatti Dante vuole rivolgersi ai dotto e ai letterati, abituati ad usare il latino, con lo scopo di fornirgli un manuale per insegnargli a poetare in volgare.
 
 
-Comunicare con tutti - Una lingua per tutti, libro I, capitolo I
+**Comunicare con tutti - Una lingua per tutti, libro I, capitolo I**
 Dante nel primo capitolo del De Vulgari Eloquentia definisce il problema e la necessità che ha riscontrato del dover identificare una lingua che sia alla portata di tutti e con la quale tutti possano relazionarsi. Il poeta sostiene che il latino (lingua a quel tempo utilizzata per la scrittura) non sia adatto per la comunicazione perché non permette di raggiungere tutti. Con il testo vuole cercare di identificare una lingua che possa essere fruibile da tutti e che aiuti nella conversazione e nella comunicazione. 
 
 Ma dato che qualunque disciplina ha il compito non già di dimostrare, bensì di dichiarare il proprio fondamento, in modo che si sappia su che cosa essa verte, diremo, affrontando rapidamente la questione, che chiamiamo lingua volgare quella lingua che i bambini imparano ad usare da chi li circonda quando incominciano ad articolare i suoni; o, come si può dire più in breve, definiamo lingua volgare quella che riceviamo imitando la nutrice, senza bisogno di alcuna regola.
@@ -334,7 +332,7 @@ Abbiamo poi un'altra lingua di secondo grado, che i Romani chiamarono "grammatic
 Di queste due lingue la più nobile è la volgare: intanto perché è stata adoperata per prima dal genere umano; poi perché il mondo intero ne fruisce, benché sia differenziata in vocaboli e pronunce diverse; infine per il fatto che ci è naturale, mentre l'altra è, piuttosto, artificiale.
 
 
-Un nuovo linguaggio - Definizione di volgare illustre, libro I, capitoli XVI-XVIII
+**Un nuovo linguaggio - Definizione di volgare illustre, libro I, capitoli XVI-XVIII**
 Dopo aver analizzato tutti i volgari d’italia senza aver identificato quello adatto a esprimere lo stile sublime, quel volgare che possa avere la stessa dignità letteraria del latino, Dante esamina le quattro caratteristiche che tale volgare deve avere: esso deve infatti essere illustre, cardinale, regale e curiale. Il Sommo Poeta non è stato in grado di identificarlo con nessuno dei quattordici dialetti del volgare del “si”. Il sommo poeta vuole riuscire a identificare una lingua che sia illustre, quindi in grado di diffondere luce e rendere luminosi coloro che la usano, e cardinale, punto di riferimento intorno al quale tutte le altri lingue devono ruotare. Il volgare che vuole identificare Dante deve inoltre essere regale, perché se ci fosse una corte italiana dovrebbe essere quello utilizzato al suo interno, e infine curiale, perché da utilizzare nelle corte di giustizia del re. Il sommo poeta infatti vuole riuscire ad identificare un linguaggio che possa essere adatto a tutti, che tutti possano comprendere e con il quale si possano raggiungere le menti di tutto il popolo italiano.
 
 Itaque, adepti quod querebamus, dicimus illustre, cardinale, aulicum et curiale vulgare in Latio, quod omnis latie civitatis est et nullius esse videtur, et quo municipalia vulgaria omnia Latinorum mensurantur, ponderantur, et comparantur.
@@ -342,7 +340,7 @@ Itaque, adepti quod querebamus, dicimus illustre, cardinale, aulicum et curiale 
 Ecco dunque che abbiamo raggiunto ciò che cercavamo: definiamo in Italia volgare illustre, cardinale, regale e curiale quello che è di ogni città italiana e non sembra appartenere a nessuna, e in base al quale tutti i volgari municipali degli Italiani vengono misurati a soppesati a comparati.
 
 
-Brunori Sas - Canzone contro la paura
+**Brunori Sas - Canzone contro la paura**
 Dante è un poeta che scrive per il suo pubblico, al quale vuole mandare un messaggio. Le persone vogliono ascoltare poesie che danno la forza di ricominciare, che ti “salvano la vita” e ti spronano. Così come Dante nel XIV secolo, anche oggi ci sono poeti che utilizzano canzoni per parlare al loro pubblico, al quale dedicano strofe dei propri componimenti. Brunori Sas è uno di questi, infatti con il suo testo “Canzone contro la paura” dice di voler parlare con il proprio pubblico, e del bisogno che questo ha di ascoltare pezzi che lo spronano e lo aiutino a “ricordarti chi sei”.
 
 Canzoni che ti salvano la vita
@@ -359,7 +357,7 @@ A ricordarti chi sei
 A ricordarti chi sei
 
 
-Il Dialetto romagnolo - Descrizione del dialetto Romagnolo, libro I, capitolo XIV
+**Il Dialetto romagnolo - Descrizione del dialetto Romagnolo, libro I, capitolo XIV**
 Dante nel De Vulgari Eloquentia passa in rassegna tutti i dialetti d’italia, analizzandoli uno ad uno e definendone le caratteristiche, la sonorità e la posizione. Tra tutti descrive anche il dialetto romagnolo, che non viene esposto con particolari elogi e complimenti. Infatti viene definito come un dialetto “così effeminato per mollezza di vocaboli e pronuncia che un uomo che lo parli, anche con tanto di voce virile, viene preso per una donna” (Quorum unum in tantum muliebre videtur propter vocabulorum et prolationis mollitiem, quod virum, etiam si viriliter sonet, feminam tamen facit esse credendum).
 
 Passiamo ora sopra le spalle coperte di fronde dell'Appennino, ed esploriamo con attenta indagine, come siamo soliti, la sinistra dell'Italia, iniziando da oriente. 
@@ -367,43 +365,43 @@ Entrando dunque per la Romagna in questa parte d'Italia, diciamo che qui si trov
 A tale volgare appartengono tutti i Romagnoli, e specialmente i Forlivesi, la cui città, benché periferica, appare però il fulcro di tutta la regione: costoro per affermare dicono deuscì, e allo scopo di blandire il prossimo usano le espressioni oclo meo e corada mea. Ma taluni di questi, a nostra notizia, si sono allontanati nelle loro poesie dal proprio volgare, cioè Tommaso e Ugolino Bucciòla, entrambi Faentini.
 
 
-Testo: Vita Nova
+#### Testo: Vita Nova
 La Vita nuova un componimento scritto da Dante Alighieri negli anni giovanili, presumibilmente nel periodo successivo alla morte di Beatrice datata tra il 1293 ed il 1295. Si tratta di un componimento misto di prosa e versi che raccoglie 31 liriche in cui si racconta la vicenda amorosa tra il Sommo Poeta e Beatrice. In linea generale la Vita Nova è una rivisitazione metaforica della vicenda di Beatrice e dell'amore spirituale che la legò al giovane poeta, nonché una riflessione sulla poesia amorosa. Il testo per quanto datato, riesce a descrivere molto bene situazioni che ancora oggi vivono gli innamorati: l’amore infatti non è cambiato nel corso dei secoli dunque i sentimenti e le azioni ne conseguono spesso sono gli stessi. 
 
 
-Alessandro D’Avenia - Bianca come il latte rossa come il sangue, capitolo 12
+**Alessandro D’Avenia - Bianca come il latte rossa come il sangue, capitolo 12**
 Lo scrittore Alessandro D’Avenia con il suo primo romanzo “Bianca come il latte rossa come il sangue ” ha voluto raccontare una storia d’amore. Ma non un amore qualsiasi. Il libro narra le storia di Leo un ragazzo come tanti, a cui piace ascoltare la musica e giocare alla playstation con gli amici. Leo è innamorato di Beatrice, una ragazza della sua scuola che purtroppo ha contratto una grave malattia. Il collegamento con Dante è evidente, infatti lo stesso protagonista si paragona al Poeta, specificando come si senta la “reincarnazione” di Dante. Nella vita nova Dante stesso racconta il suo amore per Beatrice, una donna che morirà in età giovanile lasciando il poeta in un totale sconforto. 
 
 Il sognatore è entrato in classe con un libricino in mano. Un centinaio di pagine. “Un libro che ti cambia la vita“, così ha detto. Non ho mai pensato che i libri dovessero cambiare un bel niente, tantomeno la vita. Cioè, te la cambiano perché sei costretto a leggerli e vorresti fare tutt’altro. Il sognatore però è un sognatore e non può fare a meno di sognare. Ma cosa c’entra quel libro con la storia? Il sognatore ha detto che per capire il periodo che dobbiamo studiare bisogna entrare nel cuore degli uomini dell’epoca e ha cominciato a leggere le pagine di un libro di Dante Alighieri. Non la Divina Commedia, che è una mattonata cosmica. Un libricino piccolo, la storia d’amore di Dante. Non ci posso credere: Dante ha addirittura scritto un libro per Beatrice. Innamorato come me. Il libro si chiama Vita Nova, proprio come avevo scoperto da solo: l’amore rende tutto nuovo. E se fossi io il prossimo Dante? se il sognatore per una volta avesse ragione? Comunque Dante ha dedicato quel libro proprio all’incontro con Beatrice e al cambiamento della sua vita dopo quel momento. È incredibile: uno del medioevo che prova le stesse cose che provo io! Forse io sono la reincarnazione di Dante?
 
 
-Amore - Proemio, capitolo I
+**Amore - Proemio, capitolo I**
 Dante con la Vita Nova decide di scrivere un’opera autobiografica dove ripesca i suoi ricordi più antichi. Con questo testo decide di scrivere un’opera dove inserisce solo ciò che ritiene utile e necessario: questa non vuole essere un diario personale, ma una rilettura di un periodo della propria vita. Dante infatti scrive un piccolo testo sull’amore, in raccontando la sua storia, non troppo lontana da quella che ognuno di noi potrebbe vivere oggi.
 
 In quella parte del libro de la mia memoria dinanzi a la quale poco si potrebbe leggere, si trova una rubrica la quale dice: Incipit vita nova. Sotto la quale rubrica io trovo scritte le parole le quali è mio intendimento di esemplare in questo libello; e se non tutte, almeno la loro sentenzia.
 
 
-Testo: Convivio
+#### Testo: Convivio
 È un'opera mista di prosa e versi di argomento filosofico-dottrinale, scritta da Dante in un periodo agli inizi del suo esilio: il progetto originale dell'opera prevedeva quindici trattati in prosa volgare, uno introduttivo e altri quattordici di commento ad altrettante canzoni dottrinali composte dall'autore negli anni precedenti. Dante non portò a termine l'opera e la lasciò incompiuta dopo il IV Trattato. Il I trattato è formato da tredici capitoli ed è il proemio dell'intera opera: Dante dichiara il suo scopo e illustra la struttura generale del Convivio, giustificandone il titolo e spiegando la metafora del cibo e del banchetto su cui si regge. L'autore afferma che il pubblico cui si rivolge non è di soli specialisti, ma è composto da tutti quei lettori desiderosi di conoscere e dotati di animo nobile, uomini e donne che per vari motivi non hanno ancora potuto accostarsi agli studi filosofici. Da qui la scelta del volgare, per la prima volta usato da Dante in un'opera di argomento dottrinale e non amoroso.
 
 
-Ampio Pubblico - La difesa del Volgare, trattato I, capitolo XI
+**Ampio Pubblico - La difesa del Volgare, trattato I, capitolo XI**
 In questo Dante nel difendere il volgare, perché la ritiene la lingua adatta per tutti, con la quale vuole scrivere un’opera che sia compresa da coloro che, per un motivo o per l’altro, sono privi di cultura. Dante con questa esposizione di tipo trattatistico espone le motivazioni della sua scelta. Il Convivio nasce infatti dalla volontà di favorire gli ignoranti, per dar loro una giusta guida e la capacità di saper scegliere. 
 
 Sì come la parte sensitiva dell'anima ha suoi occhi, colli quali aprende la differenza delle cose in quanto elle sono di fuori colorate, così la parte razionale ha suo occhio, collo quale aprende la differenza delle cose in quanto sono ad alcuno fine ordinate: e questo è la discrezione. E sì come colui che è cieco delli occhi sensibili va sempre secondo che li altri giudicando lo male e lo bene, così colui che è cieco del lume della discrezione sempre va nel suo giudicio secondo il grido, o diritto o falso; onde, qualunque ora lo guidatore è cieco, conviene che esso e quello, anche cieco, ch'a lui s'appoggia, vegnano a mal fine. Però è scritto che "'l cieco al cieco farà guida, e così cadranno ambindue nella fossa".
 Questa grida è stata lungamente contro a nostro volgare per le ragioni che di sotto si ragioneranno apresso di questa. E li ciechi sopra notati, che sono quasi infiniti, colla mano in sulla spalla a questi mentitori, sono caduti nella fossa della falsa oppinione, della quale uscire non sanno. Dell'abito di questa luce discretiva massimamente le populari persone sono orbate; però che, occupate dal principio della loro vita ad alcuno mestiere, dirizzano sì l'animo loro a quello per forza della necessitate, che ad altro non intendono. E però che l'abito di vertude, sì morale come intellettuale, subitamente avere non si può, ma conviene che per usanza s'acquisti, ed ellino la loro usanza pongono in alcuna arte e a discernere l'altre cose non curano, impossibile è a loro discrezione avere. Per che incontra che molte volte gridano "Viva!" la loro morte, e "Muoia! Muoia!" la loro vita, pur che alcuno cominci; e questo è pericolosissimo difetto nella loro cechitade. Onde Boezio giudica la populare gloria vana, perché la vede sanza discrezione. Questi sono da chiamare pecore, e non uomini; ché se una pecora si gittasse da una ripa di mille passi, tutte l'altre l'anderebbero dietro; e se una pecora per alcuna cagione al passare d'una strada salta, tutte l'altre saltano, eziandio nulla veggendo da saltare.
 
 
-Conoscenza - Proemio, trattato I, capitolo I
+**Conoscenza - Proemio, trattato I, capitolo I**
 In questo capitolo iniziale Dante espone i motivi che lo hanno spinto a scrivere il Convivio: un grande banchetto della conoscenza alla quale tutti possono accedere e al quale vuole invitare tutti a partecipare. Da qui infatti nasce il titolo dell’opera che simula un grande banchetto al quale tutti possono accedere per arrivare alla conoscenza. 
 
 Manifestamente adunque può vedere chi bene considera, che pochi rimangono quelli che all'abito da tutti desiderato possano pervenire, e innumerabili quasi sono li 'mpediti che di questo cibo sempre vivono affamati. Oh beati quelli pochi che seggiono a quella mensa dove lo pane delli angeli si manuca! e miseri quelli che colle pecore hanno comune cibo! Ma però che ciascuno uomo a ciascuno uomo naturalmente è amico, e ciascuno amico si duole del difetto di colui ch'elli ama, coloro che a così alta mensa sono cibati non sanza misericordia sono inver di quelli che in bestiale pastura veggiono erba e ghiande se[n] gire mangiando. E acciò che misericordia è madre di beneficio, sempre liberalmente coloro che sanno porgono della loro buona ricchezza alli veri poveri, e sono quasi fonte vivo, della cui acqua si refrigera la naturale sete che di sopra è nominata.
 
 
-Testo: Commedia
+#### Testo: Commedia
 Per scrivere la Divina Commedia in volgare, Dante ha dovuto coniare molti termini di cui prima non si sapeva nulla. Può essere che questi venissero utilizzati nella lingua parlata per comunicare, ma non se ne ha la certezza. Sicuramente questi modi di dire che ancora oggi utilizziamo nella lingua di tutti i giorni sono stati scritti per la prima volta in occasione della stesura della Divina Commedia e possiamo attribuire la loro diffusione a Dante.
 
-stai fresco - Inferno XXXII, verso 117
+**stai fresco - Inferno XXXII, verso 117**
 «Va via», rispuose, «e ciò che tu vuoi conta; 
 ma non tacer, se tu di qua entro eschi, 
 di quel ch’ebbe or così la lingua pronta. 
@@ -415,7 +413,7 @@ là dove i peccatori stanno freschi".
 “Stare freschi” ha oggi il significato di “Andrà a finire male”. “Siamo a posto!”, con tono ironico. Questo modo di dire rielabora il verso “là dove i peccatori stanno freschi”, in cui Dante descrive il lago di Cocito nel IX cerchio dell’Inferno dove sono condannati i traditori contro la patria ossia coloro che hanno commesso azioni deplorevoli contro il proprio paese. Qui i peccatori sono immersi con il corpo nel ghiaccio in modo direttamente proporzionale alla gravità del peccato commesso. Tra questi è presente Bocca degli Abati, odiato da Dante per essere stato fiorentino traditore che aveva permesso ai ghibellini senesi di vincere la battaglia di Montaperti, voltando le spalle alla fazione per la quale parteggiava anche Dante. Il poeta utilizza questa perifrasi per identificare la situazione di questi peccatori che sono costretti ad arrendersi al loro triste destino e “restare freschi” perché immersi nel ghiaccio.
 
 
-non mi tange - Inferno II, verso 92
+**non mi tange - Inferno II, verso 92**
 I’ son fatta da Dio, sua mercé, tale, 
 che la vostra miseria non mi tange, 
 né fiamma d’esto incendio non m’assale.     
@@ -423,7 +421,7 @@ né fiamma d’esto incendio non m’assale.
 Spesso può essere capitato di sentire pronunciare la perifrasi “non mi tange” in riferimento a situazioni che di cui non si ha interesse? “Non mi importa”, “Non mi interessa”. Questa espressione deriva dal II canto dell’Inferno dove Beatrice ordina a Virgilio di accompagnare Dante nella prima parte del suo viaggio. Il verso parla di come l’amata del poeta non possa stare nella sofferenza (“miseria”) senza che essa la tocchi e la corrompa (“tange”): in questo caso, una frase oggi usata anche in tono scherzoso indicava per Dante un tema molto serio, che avrebbe potuto portare alla dannazione di Beatrice.
 
 
-il bel paese - Inferno XXXIII, verso 80
+**il bel paese - Inferno XXXIII, verso 80**
 Ahi Pisa, vituperio de le genti 
 del bel paese là dove ’l sì suona, 
 poi che i vicini a te punir son lenti, 
@@ -431,23 +429,23 @@ poi che i vicini a te punir son lenti,
 L’Italia è conosciuta in tutto il mondo anche come “Bel Paese”, a causa del clima e della profonda cultura letteraria e artistica che la caratterizzano. L’espressione, che si trova nel Canto XXXIII dell’Inferno di Dante, venne utilizzata anche da Petrarca nel Canzoniere. Ancora oggi con la perifrasi “il bel paese” ci si riferisce alle terre italiane.
 
 
-galeotto fu - Inferno V, verso 137
+**galeotto fu - Inferno V, verso 137**
 la bocca mi basciò tutto tremante. 
 Galeotto fu ’l libro e chi lo scrisse: 
 quel giorno più non vi leggemmo avante». 
 
 Paolo e Francesca: una delle storie d’amore più famose d’Italia. Il modo di dire “Galeotto fu” è entrato a far parte del linguaggio comune: infatti questa frase viene oggi utilizzata per sottolineare la causa scatenante di una situazione, come è stato il libro di Lancillotto e Ginevra per i due innamorati. Il termine Galeotto indicava un nome proprio, quindi scritto con la maiuscola, da non confondersi con “galeotto” nell’accezione di detenuto, delinquente. Il nome sottolinea il ruolo di intermediario avuto dal libro nella relazione tra Paolo e Francesca, riferendosi allo stesso ruolo avuto da Galehaut nell’amore tra Lancillotto e Ginevra.
 
-senza infamia e senza lode - Inferno III, verso 36
+**senza infamia e senza lode - Inferno III, verso 36**
 Ed elli a me: «Questo misero modo 
 tegnon l’anime triste di coloro 
 che visser sanza ’nfamia e sanza lodo.
 
 L’espressione “Senza infamia e senza lode” viene utilizzata per indicare un qualcosa che non è degno di nota, né in bene né in male, e ha pertanto un tono neutro. Nel testo originale di Dante, il poeta vuole indicare l’atteggiamento degli ignavi e la loro gravissima colpa, cioè quella di non aver preso una posizione in vita. La perifrasi ha mutato leggermente il suo significato da quella coniata dal Sommo Poeta nell'accezione che oggi utilizzata. 
 
-Conversazioni su Dante
-Commedia in Romagnolo
-Il giardino dell’Eden, Canto XXVIII, Purgatorio
+### Conversazioni su Dante
+#### Commedia in Romagnolo
+**Il giardino dell’Eden, Canto XXVIII, Purgatorio**
 Nella creazione dei luoghi e degli ambienti della Divina Commedia Dante si è ispirato ai luoghi in cui ha vissuto e che ha visto durante la sua vita. Un esempio evidente è la pineta di Classe, ancora oggi visitabile. Probabilmente Dante aveva potuto visitare la pineta prima del suo stabilimento a Ravenna, quando verso la fine del XIII secolo venne a Forlì ospite della corte della famiglia Ordelaffi. La descrizione è molto simile a quella della pineta che ancora è possibile ammirare. 
 
 Testo in dialetto:
@@ -510,41 +508,42 @@ per la pineta in su ‘l lito di Chiassi,
 quand’Eolo scilocco fuor discioglie.                     	21
 
 
-Mosaici di Ravenna
+**Mosaici di Ravenna**
 Dante nella stesura della Divina Commedia ha probabilmente preso ispirazione dai mosaici delle basiliche della città di Ravenna per la descrizione di alcune aree dell’aldilà.  
 Andando nelle basiliche di Ravenna e mettendosi ad ammirare le decorazioni musive non si può non pensare che quelle stesse tessere ha guardato e ammirato anche dante prendendo forse ispirazione per alcuni passi del suo famoso poema. Forse il cerchio che racchiude la croce a sei braccia sull'arco trionfale di San Vitale, racchiusa in tre cerchi di colori diversi dei quali non si riesce a dire quale sia all'interno e quale sia all'esterno, ha ispirato il poeta nella descrizione più difficile quella della trinità nell'ultimo canto del paradiso
 
 
-Notizie su Ravenna
+**Notizie su Ravenna**
 Durante la permanenza a Ravenna si sa che Dante ha stretto un forte legame con Pietro Giardini, un notaro del posto. Le informazioni che ci sono arrivate di questa amicizia derivano dal "Trattatello in Laude a Dante" di Boccaccio, che incontro alcuni anni dopo Giardini. Il nome di Pietro Giardini apparteneva all'ordine della casa Matha la più antica corporazione di pescatori del mondo ancora oggi attiva all'interno della città di Ravenna con sede presso la Piazzetta del Mercato Coperto della città. Questa sua appartenenza all’ordine è documentata nei registri centenari conservati nelle sale della Casa Matha. La congregazione ancora oggi dopo 5 secoli effettua le riunioni e gli incontri esattamente come accadeva ai tempi di Dante. 
 
 ## Dante e la patria
 
-Tavolo Interattivo
-Testo: Epistole Civili
+### Pagine Dantesche
+
+#### Testo: Epistole Civili
 Sono tredici lettere scritte in latino e indirizzate a vari interlocutori, reali e ideali, concepite da Dante come vere opere letterarie destinate alla pubblicazione. La loro datazione è incerta, anche se furono sicuramente tutte composte durante l'esilio. Dante affronta qui vari argomenti, per lo più politici e relativi alla personale vicenda del suo esilio. La lingua e lo stile sono particolarmente curati, con ampio ricorso agli strumenti retorici e ai dettami delle artes dictandi
 
 
-Epistola I
+**Epistola I**
 Questa epistola era indirizzata a Niccolò vescovo di Ostia e Velletriviene mandato a Firenze dal nuovo papa Benedetto XI come mediatore per avanzare proposte di pace ai bianchi fuoriusciti. Dante risponde a nome della parte bianca, in maniera positiva anche se prudente, chiedendo pietà e la possibilità di poter tornare in patria senza bisogno di scontare pene, essendo il rientro un loro diritto. 
 
 Certamente, poiché per un uomo di santa religione, frate L., persuasore di buon governo e di pace, siamo stati ammoniti e vivamente per voi richiesti, come anche la vostra stessa lettera diceva, di cessare da ogni assalto e azione guerresca e di rimettere noi stessi nelle vostre paterne mani, poi figli a voi devotissimi e amanti della pace e giusti, deposte ormai le spade, ci sottoponiamo al vostro arbitrio con spontanea e leale volontà, come si dirà per la relazione del predetto vostro messo frate L. e sarà dichiarato per pubblici atti solennemente rogati. Perciò supplichiamo la pietà vostra clementissima con voce filiale e con infinito affetto di voler irrigare del sopore di tranquillità e pace quella Firenze così a lungo agitata e di tener raccomandati come pio padre noi che sempre siamo alla difesa del suo popolo e le cose che son nel nostro diritto; noi che, come non desistemmo mai dall'amore della patria, così non intendiamo mai uscire dai confini dei vostri ordini, ma ubbidire sempre tanto debitamente quanto devotamente a qualsiasi vostro comando.
 
 
-Epistola V
+**Epistola V**
 La quinta epistola era indirizzata ai signori d'Italia. Dante qui annuncia con entusiasmo l'arrivo dell'imperatore Arrigo VII, giunto in Italia per ribadire l'autorità imperiale, e invita tutti gli italiani a deporre gli odi di parte, e sottomettersi all'autorità dell'imperatore e a collaborare con lui alla restaurazione della pace. Dante infatti riteneva la figura imperiale come la salvatrice del mondo e della politica italiana, e riponeva grande fiducia in Arrigo.
 
 "Ecco ora il tempo accettevole", nel quale sorgono i segni della consolazione e della pace. Un giorno nuovo infatti comincia a splendere mostrando dal suo nascere l'aurora che già riduce le tenebre della lunga calamità; e già le brezze orientali si fanno più frequenti; rosseggia il cielo ai confini dell'orizzonte e conforta le speranze delle genti di dolce serenità. E noi il gaudio atteso vedremo, noi che a lungo passammo notti nel deserto, poiché Titano sorgerà pacifico, e la giustizia, svigorita senza il sole come l'eliotropio, non appena il primo raggio avrà dardeggiato, riprenderà vita. Saranno saziati tutti coloro che hanno fame e sete di giustizia nella luce dei suoi raggi, e saranno confusi dal suo volto sfolgorante coloro che amano l'iniquità.
 
 
-Epistola XII
+**Epistola XII**
 La dodicesima epistola era indirizzata a un amico fiorentino a cui Dante scrive dopo la morte di Arrigo VII in seguito all'amnistia concessa agli esuli e la speranza di un possibile ritorno a Firenze. Dante con questa epistola rifiuta l'offerta fatta perché le condizioni poste sono inaccettabili: avrebbe dovuto pagare un multa e sottoporsi a una procedura umiliante.
 Il rifiuto del sottoporsi alla condanna lo fa condannare a morte, e lo obbliga a non poter tornare in patria, ma bensì all'arrivo a Ravenna.
 
 È questa la grazia del richiamo con cui Dante Alighieri è richiamato in patria dopo aver patito quasi per tre lustri l'esilio? Questo ha meritato una innocenza evidente a chiunque? Questo i sudori e le fatiche continuate nello studio? Lungi da un uomo familiare della filosofia una bassezza d'animo a tal punto fuor di ragione da accettare egli, quasi in ceppi, di essere offerto, a guisa di un Ciolo e di altri disgraziati. Lungi da un uomo banditore della giustizia il pagare, dopo aver patito ingiustizie, il suo denaro agli iniqui come a benefattori. Non è questa la via del ritorno in patria, o padre mio; ma se una via diversa da voi prima o poi da altri si troverà che non deroghi alla fama e all'onore di Dante, quella non a lenti passi accetterò; che se non si entra a Firenze per una qualche siffatta via, a Firenze non entrerò mai.
 
 
-Testo: De Monarchia
+#### Testo: De Monarchia
 Il De Monarchia è un trattato in prosa latina di argomento storico-politico, in tre libri, scritto probabilmente nel 1310-1313 in concomitanza con la discesa in Italia dell'imperatore Arrigo VII di Lussemburgo. Scritta in latino, come il De vulgari eloquentia, perché intende rivolgersi a un pubblico di dotti non necessariamente italiano e in quanto il tema affrontato è la necessità di una monarchia universale, che unifichi sotto il suo dominio tutta l'Europa.
 
 
@@ -562,7 +561,7 @@ La Monarchia temporale, che si definisce come Impero, è il principato unico ed 
 Su di essa si pongono essenzialmente tre problemi: primo, si chiede se essa sia necessaria alla felicità temporale; secondo, se il popolo romano si sia assunto a buon diritto il ruolo di monarca; terzo, se l'autorità del monarca derivi da Dio immediatamente oppure da altri, ministro o vicario di Dio.
 
 
-Testo: Convivio
+#### Testo: Convivio
 È un'opera mista di prosa e versi di argomento filosofico-dottrinale, scritta da Dante in un periodo agli inizi del suo esilio: il progetto originale dell'opera prevedeva quindici trattati in prosa volgare, uno introduttivo e altri quattordici di commento ad altrettante canzoni dottrinali composte dall'autore negli anni precedenti. Dante non portò a termine l'opera e la lasciò incompiuta dopo il IV Trattato. In particolare Dante nel IV trattato abbandona il tema biografico-amoroso, affrontando una elaborazione di carattere più strettamente teorico: il tema centrale è la definizione della nobiltà, che è quella d'animo e non di sangue ed è quindi una sorta di dono divino, di cui il destinatario deve rendersi degno con una condotta virtuosa da esprimere nell'impegno politico e civile. 
 
 
@@ -578,7 +577,7 @@ Il capitolo si trasforma, dopo un breve incipit in cui Dante si lamenta del fatt
 Ahi, piaciuto fosse al dispensatore dell'universo che la cagione della mia scusa mai non fosse stata! ché né altri contra me avria fallato, né io sofferto avria pena ingiustamente, pena, dico, d'essilio e di povertate. Poi che fu piacere delli cittadini della bellissima e famosissima figlia di Roma, Fiorenza, di gittarmi fuori del suo dolce seno - nel quale nato e nutrito fui in fino al colmo della vita mia, e nel quale, con buona pace di quella, desidero con tutto lo core di riposare l'animo stancato e terminare lo tempo che m'è dato -, per le parti quasi tutte alle quali questa lingua si stende, peregrino, quasi mendicando, sono andato, mostrando contra mia voglia la piaga della fortuna, che suole ingiustamente al piagato molte volte essere imputata. Veramente io sono stato legno sanza vela e sanza governo, portato a diversi porti e foci e liti dal vento secco che vapora la dolorosa povertade; e sono apparito alli occhi a molti che forse che per alcuna fama in altra forma m'aveano imaginato: nel conspetto de' quali non solamente mia persona invilio, ma di minor pregio si fece ogni opera, sì già fatta come quella che fosse a fare.
 
 
-Testo: Commedia
+#### Testo: Commedia
 Dante partecipava attivamente alla vita pubblica della sua città e alle lotte politiche che coinvolgevano le istituzioni operanti sullo scenario politico europeo, l’Impero, la Chiesa, le grandi monarchie. L’impegno civile e la passione politica sono uno degli aspetti centrali nella sua vita e nella sua poesia. Non stupisce quindi che anche nella commedia il tema politico abbia una grande importanza. Esso è presente dall’inizio alla fine, affrontato con molteplici strumenti narrativi e retorici. Uno spazio privilegiato per la trattazione delle tematiche politiche è costituito dal sesto canto di ciascuna delle tre cantiche. Qui la dimensione politica è affrontata secondo una prospettiva sempre più ampia: Firenze, l’Italia, l’Impero.
 
 
@@ -656,7 +655,7 @@ poi disse: «Fieramente furo avversi
 a me e a miei primi e a mia parte, 
 sì che per due fiate li dispersi».            	           	48
 
-Conversazioni su Dante
+### Conversazioni su Dante
 Commedia in Romagnolo
 Incontro con Guido da Montefeltro, Canto XXVII, Inferno
 
