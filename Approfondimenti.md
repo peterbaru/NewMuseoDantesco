@@ -1,12 +1,14 @@
 # Approfondimenti
 
 ## Dante non è sempre stato Dante
-Tavolo Interattivo
-Testo: Le Rime
+
+### Pagine Dantesche
+
+#### Testo: Le Rime
 Le Rime sono una raccolta di componimenti poetici composti da Dante in un ampio arco di tempo, dalla giovinezza fino ai primi anni dell'esilio, non inclusi da lui nella Vita nuova o nel Convivio: non si tratta pertanto di un'opera progettata coscientemente dall'autore, ma di testi sparsi che gli studiosi moderni hanno organizzato in un'edizione secondo criteri compositivi e soprattutto cronologici. Risulta notevole è la varietà dei temi, anche se prevale una ricerca della sperimentazione, metrica e linguistica, ed è centrale il tema amoroso. In base alla cronologia e ai temi trattati le poesie vengono solitamente suddivise in tre gruppi: rime giovanili, rime “petrose” o della maturità e rime dell'esilio.
 
 
-Rime della giovinezza - Guido, i’vorrei che tu e Lapo ed io
+##### Rime della giovinezza - Guido, i’vorrei che tu e Lapo ed io
 Dante in questo sonetto si aggancia al genere poetico del plazer dove elenca una serie di cose piacevoli e spensierate della vita che vorrebbe fare insieme agli amici e alle loro donne. Nel componimento Dante sogna di poter viaggiare su un piccolo vascello insieme agli amici andando dove più li aggrada. Il testo segue uno stile sognante che riprende la poetica dello stilnovo e caratterizza i primi componimenti del poeta. L'amore e l’ammirazione che ha per le persone di cui si parla è spensierato e dolce, quasi come quello di un bambino.
 
 Guido, i’ vorrei che tu e Lapo ed io
