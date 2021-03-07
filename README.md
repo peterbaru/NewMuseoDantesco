@@ -1,4 +1,5 @@
 # Sui Passi Di Dante
+## Progetto di uno spazio espositivo come laboratorio partecipato permanente
 
 #### Abstract
 Alla luce delle recenti osservazioni sulla definizione di museo, la tesi propone il progetto per una nuova area per il Museo Dantesco di Ravenna in grado di descrivere la figura di Dante Alighieri e raccontare il suo tempo, migliorando e valorizzando la relazione tra istituzione museale, territorio e comunità locale.
