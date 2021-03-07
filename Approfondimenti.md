@@ -8,7 +8,7 @@
 Le Rime sono una raccolta di componimenti poetici composti da Dante in un ampio arco di tempo, dalla giovinezza fino ai primi anni dell'esilio, non inclusi da lui nella Vita nuova o nel Convivio: non si tratta pertanto di un'opera progettata coscientemente dall'autore, ma di testi sparsi che gli studiosi moderni hanno organizzato in un'edizione secondo criteri compositivi e soprattutto cronologici. Risulta notevole è la varietà dei temi, anche se prevale una ricerca della sperimentazione, metrica e linguistica, ed è centrale il tema amoroso. In base alla cronologia e ai temi trattati le poesie vengono solitamente suddivise in tre gruppi: rime giovanili, rime “petrose” o della maturità e rime dell'esilio.
 
 
-##### Rime della giovinezza - Guido, i’vorrei che tu e Lapo ed io
+**Rime della giovinezza - Guido, i’vorrei che tu e Lapo ed io**
 Dante in questo sonetto si aggancia al genere poetico del plazer dove elenca una serie di cose piacevoli e spensierate della vita che vorrebbe fare insieme agli amici e alle loro donne. Nel componimento Dante sogna di poter viaggiare su un piccolo vascello insieme agli amici andando dove più li aggrada. Il testo segue uno stile sognante che riprende la poetica dello stilnovo e caratterizza i primi componimenti del poeta. L'amore e l’ammirazione che ha per le persone di cui si parla è spensierato e dolce, quasi come quello di un bambino.
 
 Guido, i’ vorrei che tu e Lapo ed io
@@ -30,7 +30,7 @@ e ciascuna di lor fosse contenta,
 sì come i’ credo che saremmo noi.                      14
 
 
-Rime della maturità - Così nel mio parlar vogli’esser aspro
+**Rime della maturità - Così nel mio parlar vogli’esser aspro**
 la Canzone rientra tra le più famose delle rime petrose ed è dedicata alla donna di pietra insensibile all’amore del poeta. Dante è triste e combattuto, come sottolinea nella dichiarazione che apre il componimento. Il tema dell’amore non è trattato come nei versi precedenti in modo sognante ed angelico, ma si riferisce a un sentimento più carnale e animalesco. Nel testo il poeta sottolinea la durezza e la crudeltà della donna, paragonata per la sua durezza ad una pietra. Lo stile del poema è aspro e deriva dall’astio provato da poeta verso la donna che lo rifiuta. 
 
 Così nel mio parlar voglio esser aspro
@@ -62,7 +62,7 @@ sì di rodermi il core a scorza a scorza                   25
 com’io di dire altrui chi ti dà forza?
 
 
-Rime dell’esilio - Tre donne intorno al cor mi son venute
+**Rime dell’esilio - Tre donne intorno al cor mi son venute**
 In questa canzone Dante racconta in chiave allegorica il tema della giustizia (le tre donne citate sono la Giustizia divina, Giustizia umana e la Legge Morale). Dante racconta dell'ingiustizia subita nonostante la propria onestà e lealtà verso la patria. Sicuramente è stata scritta mentre era in esilio e si pensa dovesse far parte del Convivio.  
 
 Tre donne intorno al cor mi son venute,
@@ -85,17 +85,17 @@ venute son come a casa d’amico:
 ché sanno ben che dentro è quel ch’io dico.
 
 
-Testo: Vita Nova
+#### Testo: Vita Nova
 La Vita Nova è un prosimetro scritto da Dante negli anni giovanili, presumibilmente nel periodo immediatamente successivo alla morte di Beatrice (1293-1295). Si tratta di una raccolta di 31 liriche in cui viene raccontata la vicenda amorosa tra lui e Beatrice sino alla morte di quest'ultima e al periodo immediatamente successivo. L'opera viene anche definita, con un'espressione dello stesso autore: "libello" giovanile.  In linea generale la Vita Nova è una rivisitazione in chiave allegorica e cristologica della vicenda di Beatrice e dell'amore spirituale che legò la giovane al poeta, nonché una riflessione sulla poesia amorosa e della sua evoluzione nella poetica dantesca.
 
 
-Testi iniziali - Il primo incontro con Beatrice, capitolo II
+**Testi iniziali - Il primo incontro con Beatrice, capitolo II**
 In questo capitolo è raccontato il primo incontro con Beatrice, avvenuto quando entrambi avevano nove anni: la vista dell' "angiola giovanissima" provoca nel futuro poeta l'immediato innamoramento e un vero e proprio sconvolgimento interiore, descritto dall'autore con abbondanza di particolari e con la personificazione degli "spiriti vitali" che commentano il fatto che d'ora in avanti l'amore dominerà in tutto e per tutto la vita di Dante. Dante infatti tratterà nel corso della sua vita il tema dell’amore secondo i vari punti di vista (amore carnale e amore anglicato) e ne proporrà diverse visioni che matureranno nel corso del tempo.
 
 Nove fiate già appresso lo mio nascimento era tornato lo cielo de la luce quasi a uno medesimo punto, quanto a la sua propria girazione, quando a li miei occhi apparve prima la gloriosa donna de la mia mente, la quale fu chiamata da molti Beatrice li quali non sapeano che si chiamare. Ella era in questa vita già stata tanto, che ne lo suo tempo lo cielo stellato era mosso verso la parte d’oriente de le dodici parti l’una d’un grado, sì che quasi dal principio del suo anno nono apparve a me, ed io la vidi quasi da la fine del mio nono. Apparve vestita di nobilissimo colore, umile e onesto, sanguigno, cinta e ornata a la guisa che a la sua giovanissima etade si convenia. In quello punto dico veracemente che lo spirito de la vita, lo quale dimora ne la secretissima camera de lo cuore, cominciò a tremare sì fortemente, che apparia ne li menimi polsi orribilmente; e tremando disse queste parole: "Ecce deus fortior me, qui veniens dominabitur michi". In quello punto lo spirito animale, lo quale dimora ne l’alta camera ne la quale tutti li spiriti sensitivi portano le loro percezioni, si cominciò a maravigliare molto, e parlando spezialmente a li spiriti del viso, sì disse queste parole: "Apparuit iam beatitudo vestra". In quello punto lo spirito naturale, lo quale dimora in quella parte ove si ministra lo nutrimento nostro, cominciò a piangere, e piangendo disse queste parole: "Heu miser, quia frequenter impeditus ero deinceps!". D’allora innanzi dico che Amore segnoreggiò la mia anima, la quale fu sì tosto a lui disponsata , e cominciò a prendere sopra me tanta sicurtade e tanta signoria per la vertù che li dava la mia imaginazione, che me convenia fare tutti li suoi piaceri compiutamente. Elli mi comandava molte volte che io cercasse per vedere questa angiola giovanissima; onde io ne la mia puerizia molte volte l’andai cercando, e vedeala di sì nobili e laudabili portamenti, che certo di lei si potea dire quella parola del poeta Omero: "Ella non parea figliuola d’uomo mortale, ma di deo". E avvegna che la sua imagine, la quale continuatamente meco stava, fosse baldanza d’Amore a segnoreggiare me, tuttavia era di sì nobilissima vertù, che nulla volta sofferse che Amore mi reggesse sanza lo fedele consiglio de la ragione in quelle cose là ove cotale consiglio fosse utile a udire. E però che soprastare a le passioni e atti di tanta gioventudine para alcuno parlare fabuloso, mi partirò da esse; e trapassando molte cose le quali si potrebbero trarre de l’essemplo onde nascono queste, verrò a quelle parole le quali sono scritte ne la mia memoria sotto maggiori paragrafi.
 
 
-Testi di lode - Tanto gentile tanto onesta pare, capitolo XXVI
+**Testi di lode - Tanto gentile tanto onesta pare, capitolo XXVI**
 In questo capitolo è incluso il sonetto più celebre di Dante, nonché il testo tra i più famosi di tutta la poesia lirica delle origini, in cui l'autore esprime la lode della bellezza e della virtù di Beatrice e le reazioni di ammirazione che provoca in chi la vede camminare per strada, riprendendo vari motivi propri dello Stilnovo e proseguendo le "nove rime" inaugurate con la canzone "Donne ch'avete intelletto d'amore". Il capitolo presenta poi un altro sonetto che loda Beatrice col dire che, grazie a lei e alla sua umiltà, molte altre donne vengono onorate e ammirate, cui segue una spiegazione in prosa secondo il modello provenzale delle "razos".
 
 Tanto gentile e tanto onesta pare
@@ -117,29 +117,7 @@ un spirito soave pien d’amore,
 che va dicendo a l’anima: Sospira.                 14
 
 
-Testi sul dolore - Videro li occhi miei quanta pietate, capitolo XXXV
-Questo sonetto è dedicato alla "donna gentile", ovvero una giovane donna che vede il poeta mentre è affacciata a una finestra e mostra pietà per il dolore da lui provato a causa della morte di Beatrice: Dante ne è profondamente toccato e ciò suscita dei sentimenti nei confronti di questa donna, alla quale dedicherà anche altre rime incluse nella "Vita nuova".
-
-Videro li occhi miei quanta pietate
-era apparita in la vostra figura,
-quando guardaste li atti e la statura
-ch’io faccio per dolor molte fiate.                    4
-
-Allor m’accorsi che voi pensavate
-la qualità de la mia vita oscura,
-sì che mi giunse ne lo cor paura
-di dimostrar con li occhi mia viltate.              8
-
-E tolsimi dinanzi a voi, sentendo
-che si movean le lagrime dal core,
-ch’era sommosso da la vostra vista.             11
-
-Io dicea poscia ne l’anima trista:
-"Ben è con quella donna quello Amore
-lo qual mi face andar così piangendo".       14
-
-
-Testi della maturità - Oltre la spera che più larga gira, capitolo XLI
+**Testi sul dolore - Videro li occhi miei quanta pietate, capitolo XXXV**Testi della maturità - Oltre la spera che più larga gira, capitolo XLI
 Qui viene celebrata la gloria di Beatrice in Paradiso e segnata la fine dell'infatuazione di Dante per la "donna gentile".  Il sonetto fu scritto dall'autore come risposta alla richiesta di due "donne gentili" di inviare loro delle rime ed è il componimento che meglio sintetizza la nuova poesia che celebra Beatrice come creatura sovrumana, lodata in cielo tra i santi e i beati.
 
 Oltre la spera che più larga gira
@@ -161,7 +139,7 @@ però che spesso ricorda Beatrice,
 sì ch’io lo ’ntendo ben, donne mie care.      14
 
 
-Testo: Convivio
+#### Testo: Convivio
 Nel XXIV capitolo del VI trattato del convivio Dante descrive le quattro età della vita dell’uomo e per ognuna di queste elenca le virtù che contraddistinguono ognuna. 
 
 Ritornando al proposito, dico che la umana vita si parte per quattro etadi. La prima si chiama Adolescenzia, cioè ‘accrescimento di vita’; la seconda si chiama Gioventute, cioè ‘etade che puote giovare’, cioè perfezione dare, e così s’intende perfetta – ché nullo puote dare se non quello ch’elli ha –; la terza si chiama Senettute; la quarta si chiama Senio, sì come di sopra detto è.
@@ -197,15 +175,15 @@ sopra me vidi, e dicea: «Tiemmi, tiemmi!».          	    93
 
 Tratto m’avea nel fiume infin la gola, 
 e tirandosi me dietro sen giva 
-sovresso l’acqua lieve come scola.                   	    	96
+sovresso l’acqua lieve come scola.                   	  	96
 
 Quando fui presso a la beata riva, 
 ‘Asperges me’ sì dolcemente udissi, 
-che nol so rimembrar, non ch’io lo scriva.        	99
+che nol so rimembrar, non ch’io lo scriva.              	99
 
 La bella donna ne le braccia aprissi; 
 abbracciommi la testa e mi sommerse 
-ove convenne ch’io l’acqua inghiottissi.                   	102
+ove convenne ch’io l’acqua inghiottissi.                	102
 
 
 Presente - Paradiso X
@@ -213,46 +191,46 @@ Dante vede in Paradiso nel IV cielo il filosofo Severino Boezio del quale ha stu
 
 Per vedere ogni ben dentro vi gode 
 l’anima santa che ‘l mondo fallace 
-fa manifesto a chi di lei ben ode.             	              	126
+fa manifesto a chi di lei ben ode.             	        	126
 
 Lo corpo ond’ella fu cacciata giace 
 giuso in Cieldauro; ed essa da martiro 
-e da essilio venne a questa pace.                                     129
+e da essilio venne a questa pace.                        129
 
 Futuro - Inferno XV
 Durante il cammino Dante incontra diversi personaggi che gli predicono il futuro esilio, tra questi Brunetto Latini. Dante potrà quindi riflettere su quello che gli succederà andando a capire come si concluderà il suo percorso di vita. Il poeta nel testo si serve di queste profezie che ancora per il Dante personaggio devono accadere.
 
 Ed elli a me: «Se tu segui tua stella, 
 non puoi fallire a glorioso porto, 
-se ben m’accorsi ne la vita bella;                            	   57
+se ben m’accorsi ne la vita bella;                   	   57
 
 e s’io non fossi sì per tempo morto, 
 veggendo il cielo a te così benigno, 
-dato t’avrei a l’opera conforto.                                         60
+dato t’avrei a l’opera conforto.                         60
 
 Ma quello ingrato popolo maligno 
 che discese di Fiesole ab antico, 
-e tiene ancor del monte e del macigno,                   	63
+e tiene ancor del monte e del macigno,                  	63
 
 ti si farà, per tuo ben far, nimico: 
 ed è ragion, ché tra li lazzi sorbi 
-si disconvien fruttare al dolce fico.                                 66
+si disconvien fruttare al dolce fico.                    66
 
 Vecchia fama nel mondo li chiama orbi; 
 gent’è avara, invidiosa e superba: 
-dai lor costumi fa che tu ti forbi.                                	  69
+dai lor costumi fa che tu ti forbi.                   	  69
 
 La tua fortuna tanto onor ti serba, 
 che l’una parte e l’altra avranno fame 
-di te; ma lungi fia dal becco l’erba.                                 72
+di te; ma lungi fia dal becco l’erba.                    72
 
 Faccian le bestie fiesolane strame 
 di lor medesme, e non tocchin la pianta, 
-s’alcuna surge ancora in lor letame,                             75
+s’alcuna surge ancora in lor letame,                     75
 
 in cui riviva la sementa santa 
 di que’ Roman che vi rimaser quando 
-fu fatto il nido di malizia tanta».                               78
+fu fatto il nido di malizia tanta».                      78
 
 Conversazioni su Dante
 Commedia in Romagnolo
@@ -292,19 +270,19 @@ Quest e racont e fo dla su mêl sôrt.
 Testo in volgare:
 «O animal grazioso e benigno 
 che visitando vai per l’aere perso 
-noi che tignemmo il mondo di sanguigno,              	90
+noi che tignemmo il mondo di sanguigno,                 	90
 
 se fosse amico il re de l’universo, 
 noi pregheremmo lui de la tua pace, 
-poi c’hai pietà del nostro mal perverso.                       93
+poi c’hai pietà del nostro mal perverso.                 93
 
 Di quel che udire e che parlar vi piace, 
 noi udiremo e parleremo a voi, 
-mentre che ’l vento, come fa, ci tace.                         	96
+mentre che ’l vento, come fa, ci tace.                  	96
 
 Siede la terra dove nata fui 
 su la marina dove ’l Po discende 
-per aver pace co’ seguaci sui.                                    	99
+per aver pace co’ seguaci sui.                          	99
 
 Amor, ch’al cor gentil ratto s’apprende 
 prese costui de la bella persona 
@@ -312,11 +290,11 @@ che mi fu tolta; e ’l modo ancor m’offende.             	102
 
 Amor, ch’a nullo amato amar perdona, 
 mi prese del costui piacer sì forte, 
-che, come vedi, ancor non m’abbandona.                  105
+che, come vedi, ancor non m’abbandona.                   105
 
 Amor condusse noi ad una morte: 
 Caina attende chi a vita ci spense». 
-Queste parole da lor ci fuor porte.                            	108
+Queste parole da lor ci fuor porte.                     	108
 
 Mosaici di Ravenna
 Dante nella stesura della Divina Commedia ha probabilmente preso ispirazione dai mosaici delle basiliche della città di Ravenna per la descrizione di alcune aree dell’aldilà.  
@@ -325,15 +303,15 @@ Il viaggio intrapreso nell’oltretomba può essere inteso come un’allegoria d
 Testo: 
 Qui è da man, quando di là è sera; 
 e questi, che ne fé scala col pelo, 
-fitto è ancora sì come prim’era.                                     120
+fitto è ancora sì come prim’era.                        120
 
 Da questa parte cadde giù dal cielo; 
 e la terra, che pria di qua si sporse, 
-per paura di lui fé del mar velo,                                     123
+per paura di lui fé del mar velo,                       123
 
 e venne a l’emisperio nostro; e forse 
 per fuggir lui lasciò qui loco vòto 
-quella ch’appar di qua, e sù ricorse»                           126
+quella ch’appar di qua, e sù ricorse»                   126
 
 
 Notizie su Ravenna
@@ -505,31 +483,31 @@ quând e Siröch e re di vent e dsoi.
 Testo in volgare:
 Vago già di cercar dentro e dintorno 
 la divina foresta spessa e viva, 
-ch’a li occhi temperava il novo giorno,                        	3
+ch’a li occhi temperava il novo giorno,                  	3
 
 sanza più aspettar, lasciai la riva, 
 prendendo la campagna lento lento 
-su per lo suol che d’ogne parte auliva.                       	6
+su per lo suol che d’ogne parte auliva.                  	6
 
 Un’aura dolce, sanza mutamento 
 avere in sé, mi feria per la fronte 
-non di più colpo che soave vento;                                	9
+non di più colpo che soave vento;                        	9
 
 per cui le fronde, tremolando, pronte 
 tutte quante piegavano a la parte 
-u’ la prim’ombra gitta il santo monte;                        	12
+u’ la prim’ombra gitta il santo monte;                   	12
 
 non però dal loro esser dritto sparte 
 tanto, che li augelletti per le cime 
-lasciasser d’operare ogne lor arte;                            	15
+lasciasser d’operare ogne lor arte;                      	15
 
 ma con piena letizia l’ore prime, 
 cantando, ricevieno intra le foglie, 
-che tenevan bordone a le sue rime,               	18
+che tenevan bordone a le sue rime,                       	18
 
 tal qual di ramo in ramo si raccoglie 
 per la pineta in su ‘l lito di Chiassi, 
-quand’Eolo scilocco fuor discioglie.                          	21
+quand’Eolo scilocco fuor discioglie.                     	21
 
 
 Mosaici di Ravenna
@@ -609,46 +587,46 @@ Il potere temporale dei papi deriva dalla "Donazione di Costantino" un documento
 
 L’altro che segue, con le leggi e meco, 
 sotto buona intenzion che fé mal frutto, 
-per cedere al pastor si fece greco:               	              57
+per cedere al pastor si fece greco:               	       57
 
 ora conosce come il mal dedutto 
 dal suo bene operar non li è nocivo, 
-avvegna che sia ‘l mondo indi distrutto.                        60
+avvegna che sia ‘l mondo indi distrutto.                  60
 
 Pietro Damiano
 Nel paradiso al canto XXI Dante esalta la vita contemplativa di Pietro Damiani il quale biasima lo sfarzo dell'alto clero così contrastante con la povertà di Pietro e Paolo "che vissero con elemosina magri e scalzi". Ravennate di nascita, Pietro Damiano rivive nei ricordi del poeta attraverso alcuni luoghi della città, quali la Chiesa di Santa Maria in Porto fuori, crollata a seguito dei bombardamenti del 1943 e successivamente ricostruita.
 
 Così ricominciommi il terzo sermo; 
 e poi, continuando, disse: «Quivi 
-al servigio di Dio mi fe’ sì fermo,                                   114
+al servigio di Dio mi fe’ sì fermo,                       114
 
 che pur con cibi di liquor d’ulivi 
 lievemente passava caldi e geli, 
-contento ne’ pensier contemplativi.                              117
+contento ne’ pensier contemplativi.                       117
 
 Render solea quel chiostro a questi cieli 
 fertilemente; e ora è fatto vano, 
-sì che tosto convien che si riveli.                                   120
+sì che tosto convien che si riveli.                       120
 
 In quel loco fu’ io Pietro Damiano, 
 e Pietro Peccator fu’ ne la casa 
-di Nostra Donna in sul lito adriano.                              123
+di Nostra Donna in sul lito adriano.                      123
 
 Poca vita mortal m’era rimasa, 
 quando fui chiesto e tratto a quel cappello, 
-che pur di male in peggio si travasa.                           126
+che pur di male in peggio si travasa.                     126
 
 Venne Cefàs e venne il gran vasello 
 de lo Spirito Santo, magri e scalzi, 
-prendendo il cibo da qualunque ostello.                      129
+prendendo il cibo da qualunque ostello.                   129
 
 Or voglion quinci e quindi chi rincalzi 
 li moderni pastori e chi li meni, 
-tanto son gravi, e chi di rietro li alzi.                              132
+tanto son gravi, e chi di rietro li alzi.                 132
 
 Cuopron d’i manti loro i palafreni, 
 sì che due bestie van sott’una pelle: 
-oh pazienza che tanto sostieni!».                                135
+oh pazienza che tanto sostieni!».                         135
 
 Farinata degli Uberti
 Nel X canto dell’Inferno Dante incontra
@@ -656,15 +634,15 @@ Farinata degli Uberti che rievoca gli scontri sanguinosi fra Guelfi e Ghibellini
 
 Ed el mi disse: «Volgiti! Che fai? 
 Vedi là Farinata che s’è dritto: 
-da la cintola in sù tutto ’l vedrai».              	              	33
+da la cintola in sù tutto ’l vedrai».      	              	33
 
 Io avea già il mio viso nel suo fitto; 
 ed el s’ergea col petto e con la fronte 
-com’avesse l’inferno a gran dispitto.      	        	   36
+com’avesse l’inferno a gran dispitto.      	           	   36
 
 E l’animose man del duca e pronte 
 mi pinser tra le sepulture a lui, 
-dicendo: «Le parole tue sien conte».                        	39
+dicendo: «Le parole tue sien conte».                      	39
 
 Com’io al piè de la sua tomba fui, 
 guardommi un poco, e poi, quasi sdegnoso, 
@@ -672,11 +650,11 @@ mi dimandò: «Chi fuor li maggior tui?».                   	42
 
 Io ch’era d’ubidir disideroso, 
 non gliel celai, ma tutto gliel’apersi; 
-ond’ei levò le ciglia un poco in suso;          	          	45
+ond’ei levò le ciglia un poco in suso;                    	45
 
 poi disse: «Fieramente furo avversi 
 a me e a miei primi e a mia parte, 
-sì che per due fiate li dispersi».                  	           	48
+sì che per due fiate li dispersi».            	           	48
 
 Conversazioni su Dante
 Commedia in Romagnolo
@@ -720,35 +698,35 @@ se de tu nom, so a e mond, t’vu in tegna cont».
 Testo in volgare:
 E io, ch’avea già pronta la risposta, 
 sanza indugio a parlare incominciai: 
-«O anima che se’ là giù nascosta,                                             36
+«O anima che se’ là giù nascosta,                            36
 
 Romagna tua non è, e non fu mai, 
 sanza guerra ne’ cuor de’ suoi tiranni; 
-ma ’n palese nessuna or vi lasciai.                                          39
+ma ’n palese nessuna or vi lasciai.                          39
 
 Ravenna sta come stata è molt’anni: 
 l’aguglia da Polenta la si cova,  
-sì che Cervia ricuopre co’ suoi vanni.                                      42
+sì che Cervia ricuopre co’ suoi vanni.                       42
 
 La terra che fé già la lunga prova 
 e di Franceschi sanguinoso mucchio, 
-sotto le branche verdi si ritrova.                                             45
+sotto le branche verdi si ritrova.                           45
 
 E ’l mastin vecchio e ’l nuovo da Verrucchio, 
 che fecer di Montagna il mal governo, 
-là dove soglion fan d’i denti succhio.                                     48
+là dove soglion fan d’i denti succhio.                       48
 
 Le città di Lamone e di Santerno 
 conduce il lioncel dal nido bianco, 
-che muta parte da la state al verno.                                      51
+che muta parte da la state al verno.                         51
 
 E quella cu’ il Savio bagna il fianco, 
 così com’ella sie’ tra ’l piano e ’l monte 
-tra tirannia si vive e stato franco.                         	        54
+tra tirannia si vive e stato franco.                	        54
 
 Ora chi se’, ti priego che ne conte; 
 non esser duro più ch’altri sia stato, 
-se ’l nome tuo nel mondo tegna fronte».           	       57
+se ’l nome tuo nel mondo tegna fronte».           	          57
 
 Mosaici di Ravenna
 Dante nella stesura della Divina Commedia ha probabilmente preso ispirazione dai mosaici delle basiliche della città di Ravenna per la descrizione di alcune aree dell’aldilà. 
@@ -756,23 +734,23 @@ Nel VI canto del paradiso tutto dedicato a Giustiniano l'imperatore viene esalta
 
 «O bene nato a cui veder li troni 
 del triunfo etternal concede grazia 
-prima che la milizia s’abbandoni,                              	117
+prima che la milizia s’abbandoni,                           	117
 
 del lume che per tutto il ciel si spazia 
 noi semo accesi; e però, se disii 
-di noi chiarirti, a tuo piacer ti sazia».                         	120
+di noi chiarirti, a tuo piacer ti sazia».                   	120
 
 Così da un di quelli spirti pii 
 detto mi fu; e da Beatrice: «Dì, dì 
-sicuramente, e credi come a dii».                             	123
+sicuramente, e credi come a dii».                           	123
 
 «Io veggio ben sì come tu t’annidi 
 nel proprio lume, e che de li occhi il traggi, 
-perch’e’ corusca sì come tu ridi;                                	126
+perch’e’ corusca sì come tu ridi;                           	126
 
 ma non so chi tu se’, né perché aggi, 
 anima degna, il grado de la spera 
-che si vela a’ mortai con altrui raggi».                      	129
+che si vela a’ mortai con altrui raggi».                    	129
 
 Notizie su Ravenna
 Nel 1519 i fiorentini richiesero di poter portare le ossa del poeta nella terra natia (supportati da papa leone X), ma quando arrivano a prendere le ossa trovarono la tomba vuota. I frati infatti, incaricati della custodia delle ossa, avevano precedentemente aperto un pertugio attraverso il quale avvenne la trafugazione. I fiorentini iniziarono a protestare e cercarono più volte di obbligare i ravennati a cedere loro le ossa.
