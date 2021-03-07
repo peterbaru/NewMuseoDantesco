@@ -1,185 +1,6 @@
-TESTI PROTOTIPI
+# Approfondimenti
 
-Mappa Dantesca della città di Ravenna
-Tomba di Dante
-Informazioni installazione: La tomba di Dante ha subito molte modifiche nel corso dei secoli: inizialmente consisteva in un piccolo portico  in fondo al quale era posizionata l’arca sepolcrale che ospitava il corpo. Le ossa del Sommo Poeta non sono sempre rimaste all’interno della tomba, infatti nel 1519 i Frati Francescani, incaricati della loro conservazione, le sottrassero furtivamente per evitare che venissero portate via degli inviati di Papa Leone X, incaricati di riportarle in patria.
-
-Le ossa scomparvero per circa 3 secoli fino a quando, nel 1865, in occasione di una ristrutturazione dell’area, vennero ritrovate da un operaio che lavorava sul posto. Il tempietto neoclassico che oggi accoglie i resti di Dante venne progettato dall’architetto Camillo Morigia e inaugurato nel 1781 in occasione di una delle ristrutturazioni dell’area. Sulla parete di fondo dell’interno, tutto rivestito di marmi, si trova l’arca sepolcrale. Al di sopra spicca un bassorilievo scolpito nel 1483 da Pietro Lombardo, raffigurante Dante in pensoso raccoglimento. Nella tomba è presente un vasto campionario di simbologia: sulla sommità della cupola è presente una pigna di marmo, simbolo della città di Ravenna; nel timpano di facciata è presente un serpente in bronzo che si morde la coda, simbolo della ciclicità della vita e dell’eternità, descritta da Dante nel suo poema; nella trabeazione sotto al timpano sono posti dei bucrani, elementi decorativi delle tombe della romanità classica. All’interno della tomba arde una lampada alimentata dall’olio che tutti gli anni la città di Firenze dona in occasione dell’anniversario della morte del poeta. Prima della costruzione del tempietto del Morigia la tomba del Sommo poeta consisteva in una modesta cappella, rivolta a est, collegata al quadrarco di Braccioforte tramite un portico. 
-Distanza: 1 min
-Indirizzo: Via Dante Alighieri 9
-Livello di esplorazione: Aperto
-Orari: Novembre - Marzo 10.00 - 18.00 | Aprile - Ottobre 10.00 - 19.00
-
-Basilica di San Francesco
-Informazioni installazione: Fu nella basilica di San Francesco che nel 1321 vennero celebrati i funerali di Dante. La scelta fu fatta probabilmente in quanto il poeta apparteneva all’Ordine Terziario dei Frati Francescani. L'impianto dell’attuale edificio risale al 450, quando la chiesa venne fondata sotto il titolo dei santi apostoli. In seguito prese il nome di Santi Pietro e Paolo ancora oggi titolo ufficiale della chiesa. Nel XIII secolo venne affidata ai Frati Francescani e da allora è conosciuta come San Francesco.
-
-Nel corso dei secoli ha subito molti rimaneggiamenti; i più importanti riguardano la realizzazione della cripta, del campanile, delle cappelle laterali e l’innalzamento delle colonne. La cripta risalente al IX secolo fu riscoperta nel 1877. Le volte che la coprono sono sorrette da quattro colonnette di marmo e il pavimento è a mosaico. La cripta è costantemente invasa dall’acqua a causa della subsidenza a cui è soggetta la città di Ravenna. Il campanile risale al IX secolo per la parte più bassa (fino alla trifora) ed in seguito fu sopraelevato aggiungendo il piano della quadrifora. A metà della navata sinistra si apre la cappella Polentana costruita a metà del XIV secolo. Presenta pitture di scuola riminese trecentesca. Nel ‘700 le venne dato un aspetto barocco venendo poi riportata alle sembianze che si suppone avesse ai tempi di Dante in occasione dei restauri del 1921. 
-Distanza: 1 min
-Indirizzo: Piazza San Francesco 3
-Livello di esplorazione: Aperto
-Orari: 7.00 - 12.00 | 15.00 - 18.00 
-
-Quadrarco di Braccioforte
-Informazioni installazione: Probabile avanzo del quadriportico o dell'ardica che precedeva la facciata della Basilica di San Francesco, il quadrarco di Braccioforte è legato fin dal 1321 alla conformazione del sepolcro di Dante. La struttura sorge in prossimità del muro all’interno del quale vennero nascoste dai Francescani le ossa del poeta per evitare che queste venissero prese dai fiorentini nel 1519.
-
-Nel 1865, in occasione del ritrovamento delle ossa di Dante, queste vennero esposte all’interno di un urna di cristallo sotto il  quadrarco. L’antico oratorio prende il nome da una leggenda secondo la quale due amici prestano un giuramento invocando a testimone il “braccio forte” di Cristo, la cui immagine era posta in quel luogo. Nel quadrarco sono presenti due sarcofagi del V secolo, poi riutilizzati dalle famiglie ravennati dei Pignata e dei Traversari. 
-Distanza: 1 min
-Indirizzo: Via Dante Alighieri 9
-Livello di esplorazione: Aperto
-Orari: Novembre - Marzo 10.00 - 18.00 | Aprile - Ottobre 10.00 - 19.00
-
-Il valore dei mosaici
-Informazioni installazione: La visione dei mosaici ravennati ha probabilmente ispirato Dante della descrizione di alcune immagini presenti all’interno delle cantiche della Divina Commedia. Probabilmente già nel 1302, in occasione del suo soggiorno presso la famiglia Ordelaffi, signori di Forlì, il Sommo Poeta ebbe occasione di visitare le Basiliche ravennati e di ammirare i mosaici conservati al loro interno. 
-
-San Vitale
-Informazioni: Consacrata nel 547 dall’arcivescovo Massimiano la chiesa fu fatta erigere per volere dell’arcivescovo Ecclesio. Famosa principalmente per i mosaici bizantini fra i quali spiccano i due cortei di Giustiniano e Teodora attorniati dalle rispettive corti. Al centro dell’abside è presente Cristo seduto sull’universo e attorniato da due angeli, San Vitale e l’arcivescovo Ecclesio con il modello del tempio in mano. 
-Distanza: 8 min
-Indirizzo: Via San Vitale 17
-Livello di esplorazione: Aperto
-Orari: Marzo - Ottobre 9.00 - 19.00 | Novembre - Febbraio 10.00 - 17.00
-
-Galla Placidia
-Informazioni: L’edificio fu costruito nella prima metà del V secolo su committenza di Galla Placidia come cappella di San Lorenzo collegata, tramite l’ardica, alla più vasta chiesa di Santa Croce. Le iconografie dei mosaici che popolano le sue pareti interne  rappresentano il tema della vittoria della vita eterna sulla morte. Al centro della cupola, in un immenso cielo stellato, appare una croce latina dorata, simbolo di Cristo Sole Nascente. Fra i mosaici più conosciuti troviamo l’immagine del Cristo Buon Pastore, le due colombe che si abbeverano a un’unica coppa e il cielo stellato. 
-Distanza: 8 min
-Indirizzo: Via San Vitale 17
-Livello di esplorazione: Aperto
-Orari: Marzo - Ottobre 9.00 - 19.00 | Novembre - Febbraio 10.00 - 17.00
-
-Sant'Apollinare Nuovo
-Informazioni: La basilica oggi intitolata a Sant’Apollinare venne realizzata tra la fine del V e l’inizio del VI secolo da Teoderico con funzione di cappella palatina per il culto ariano. Con la riconquista bizantina, fu riconsacrata al culto cattolico e intitolata a San Martino. La basilica venne definitivamente intitolata a Apollinare, ma col suffisso “Nuovo”, per distinguerla dall’omonima chiesa a Classe, nonostante fosse per costruzione più antica. Esternamente, è architettonicamente semplice, realizzata in mattoni, con la facciata timpanata inquadrata da due lesene e una bifora. All’interno è presente una decorazione in mosaico che percorre tutta la navata centrale. Le 26 scene cristologiche, risalenti al periodo di Teoderico, rappresentano il più antico ciclo monumentale nel nuovo testamento giunto fino a noi.
-Distanza: 7 min
-Indirizzo: Via di Roma 53
-Livello di esplorazione: Aperto
-Orari: Marzo - Ottobre 9.00 - 19.00 | Novembre - Febbraio 10.00 - 17.00
-
-Battistero Ariani
-Informazioni: Fatto innalzare da Teodorico alla fine del V secolo come battistero della vicina Cattedrale degli Ariani, il Battistero degli Ariani fu poi riconsacrato per volere di Giustiniano a metà del VI secolo al culto ortodosso, divenendo un oratorio dedicato alla Vergine Maria. Successivamente, nel 1200, se ne presero cura i monaci benedettini che lo consegnarono al clero secolare. Il mosaico del battesimo, che rappresenta i 12 apostoli e il battesimo di Cristo, è quasi certamente di età teodoriciana, mentre gli apostoli risultano quasi del tutto rifatti a metà del VI secolo.
-Distanza: 6 min
-Indirizzo: Piazzetta degli Ariani
-Livello di esplorazione: Aperto
-Orari: Lun - Gio 9.00 - 12-00
-
-Battistero Neoniano
-Informazioni: Fatto realizzare a inizio V secolo dal vescovo Orso questo battistero è una testimonianza di arte paleocristiana. Esternamente presenta la pianta ottagonale e pareti in mattone vivo su cui spicca un frammento marmoreo di epoca romana raffigurante un cavaliere. Al centro della stanza è presente la vasca battesimale in marmo. Intorno si alzano i mosaici che si estendono su tre diverse aree: in alto, il Battesimo di Cristo nel Giordano, mentre nella fascia sottostante, sono raffigurati in processione i 12 apostoli guidati da Pietro e Paolo. Infine, nella terza fascia si alternano motivi raffiguranti troni e altari.
-Distanza: 5 min
-Indirizzo: Piazza Duomo 1
-Livello di esplorazione: Aperto
-Orari: Marzo - Ottobre 9.00 - 19.00 | Novembre - Febbraio 10.00 - 17.00
-
-Sant’Apollinare in Classe
-Informazioni: A Classe sorge la Basilica di Sant’Apollinare, detta “in Classe” per distinguerla da una chiesa di uguale titolatura edificata a Ravenna. Nata per accogliere le spoglie del santo patrono, la basilica fu edificata in una necropoli di età imperiale utilizzata fino al III secolo. La chiesa preserva la struttura originaria ed è nota per i mosaici policromi dell’abside, nonostante le spoliazioni subite. In particolare, è presente la rappresentazione di Apollinare, fondatore e primo vescovo della chiesa ravennate, raffigurato a braccia alzate nel gesto della preghiera. All’interno della croce posta al centro è presente il volto di Cristo e lateralmente le lettere apocalittiche dell’alfabeto greco: l’Alpha e l’Omega, simbolo dell’Inizio e della Fine di ogni cosa.
-Distanza: 11 min (auto)
-Indirizzo: Via Romea Sud 224
-Livello di esplorazione: Aperto
-Orari: Marzo - Ottobre 9.00 - 19.00 | Novembre - Febbraio 10.00 - 17.00
-
-San Giovanni Evangelista
-Informazioni: Originariamente la Chiesa di San Giovanni Evangelista sorgeva sulla costa in prossimità del porto. Venne edificata, per volere dell’imperatrice Galla Placidia, nel 424, quando l’imperatrice tornò a Ravenna da Costantinopoli, dove si era recata in seguito alla morte del fratello Onorio. Galla fece costruire la chiesa per mantenere fede a un voto fatto durante il viaggio: la sua nave era rimasta coinvolta in una rovinosa tempesta e aveva promesso di costruire un edificio di culto se fosse riuscita a scampare al naufragio. Una volta rientrata in città mantenne la promessa. Come recita l’iscrizione in marmo sulla chiesa: “Galla Placidia, suo figlio Placido Valentiniano Augusto e sua figlia Giusta Grata Onoria hanno rispettato i voti presi per essere stati salvati dalle intemperie del mare”. A testimonianza della forte devozione a San Giovanni Evangelista, l’Imperatrice Galla Placidia appare ritratta anche sul portale medievale gotico mentre si prostra ai piedi del santo.
-Distanza: 8 min
-Indirizzo: Viale Farini
-Livello di esplorazione: Aperto
-Orari: Mar - Dom 10.00 - 17.00
-
-Pineta di Classe
-Informazioni:
-Un'aura dolce, sanza mutamento
-avere in sé, mi feria per la fronte
-non di più colpo che soave vento;
-
-per cui le fronde, tremolando,
-pronte tutte quante piegavano a la parte
-u' la prim'ombra gitta il santo monte;  
-
-non però dal loro esser dritto sparte
-tanto, che li augelletti per le cime
-lasciasser d'operare ogne lor arte;
-
-ma con piena letizia l'ore prime,
-cantando, ricevieno intra le foglie,
-che tenevan bordone a le sue rime,
-
-tal qual di ramo in ramo si raccoglie
-per la pineta in su 'l lito di Chiassi,
-quand'Eolo scilocco fuor discioglie. 
-
-La Pineta di Classe è citata esplicitamente da Dante nel suo Poema, dove viene paragonata al giardino dell’Eden nel XXVIII canto del Purgatorio.
-
-L’origine leggendaria della pineta di Classe la fa risalire alle penitenze impartite dai monaci delle abbazie Ravennati ai peccatori che andavano a confessarsi. Infatti si dice che i confessori dessero come penitenza la semina di una o più staia di pinoli in base alla gravità dei peccati. La grande quantità di peccati dei ravennati ha fatto sorgere le pinete, un tempo molto più estese. In realtà con molta probabilità la coltivazione del pino venne impiantata per soddisfare al fabbisogno di legname per la costruzione di navi forse già all’epoca del porto imperiale di Classe. 
-Distanza: 16 min (auto)
-Indirizzo: Via Romea Sud (subito dopo Fosso Ghiaia)
-Livello di esplorazione: Aperta
-
-Case Da Polenta
-Informazioni installazione:
-Ravenna sta come stata è molt'anni:
-l'aguglia da Polenta la si cova,
-sì che Cervia ricuopre co' suoi vanni. 
-
-La famiglia Da Polenta era, tra la fine del XIII e l’inizio del XIV secolo, una delle casate illustri d'Italia, tanto da essere già citata due volte nell’Inferno. Dante dovette conoscere Guido Minore, padre di Francesca, e nonno di Guido Novello, già nel 1290 quando questi fu podestà a Firenze.
-
-La casa di Francesca
-Informazioni installazione: Quando Dante in esilio venne a Ravenna probabilmente intorno al 1318 fu proprio Guido Novello ad ospitarlo. Molte furono le proprietà dei Da Polenta all’interno della cinta muraria ravennate; oggi restano tre edifici che tradizionalmente sono individuati come case Polentane. Purtroppo non ci è nota quale fosse l’abitazione del poeta durante il suo soggiorno ravennate (1318-1321), anche se la tradizione la individua nei pressi dell’attuale Zona del Silenzio. 
-Distanza: 4 min
-Indirizzo: Via IV novembre 41
-Livello di esplorazione: Chiuso
-
-Palazzo Polentano (Ca de Ven)
-Informazioni installazione: Quando Dante in esilio venne a Ravenna probabilmente intorno al 1318 fu proprio Guido Novello ad ospitarlo. Molte furono le proprietà dei Da Polenta all’interno della cinta muraria ravennate; oggi restano tre edifici che tradizionalmente sono individuati come case Polentane. Purtroppo non ci è nota quale fosse l’abitazione del poeta durante il suo soggiorno ravennate (1318-1321), anche se la tradizione la individua nei pressi dell’attuale Zona del Silenzio. 
-Distanza: 1 min 
-Indirizzo: Via Corrado Ricci 24
-Livello di esplorazione: Chiuso
-
-Casa Polentana
-Informazioni installazione: Quando Dante in esilio venne a Ravenna probabilmente intorno al 1318 fu proprio Guido Novello ad ospitarlo. Molte furono le proprietà dei Da Polenta all’interno della cinta muraria ravennate; oggi restano tre edifici che tradizionalmente sono individuati come case Polentane. Purtroppo non ci è nota quale fosse l’abitazione del poeta durante il suo soggiorno ravennate (1318-1321), anche se la tradizione la individua nei pressi dell’attuale Zona del Silenzio. 
-Distanza: 7 min
-Indirizzo: Via Zagarelli alle Mura 2
-Livello di esplorazione: Chiuso
-
-Casa Traversari
-Informazioni installazione:
-Ov'è 'l buon Lizio e Arrigo Mainardi?
-Pier Traversaro e Guido di Carpigna?
-Oh Romagnuoli tornati in bastardi! 
-
-Non ti maravigliar s'io piango, Tosco,
-quando rimembro con Guido da Prata,
-Ugolin d'Azzo che vivette nosco, 
-
-Federigo Tignoso e sua brigata,
-la casa Traversara e li Anastagi
-(e l'una gente e l'altra è diretata)
-
-La famiglia Traversari, una delle più antiche di Ravenna, è menzionata con rimpianto da Dante quando incontra il Romagnolo Guido del Duca che, con rammarico, racconta come le virtù cavalleresche e i comportamenti civili siano scomparsi in Romagna negli ultimi tempi.
-
-Oggi sede del Dipartimento di Archeologia, la casa che si ipotizza fosse appartenuta alla famiglia Traversari, conserva esternamente la sua configurazione originaria, mentre all’interno è stata completamente ristrutturata. Si tratta, in ogni caso, dell’unica dimora cittadina del XIII secolo ancora esistente: solo nel piano superiore, dotato delle sei bifore originarie, si riconoscono le parti più antiche. Si pensa che la casa disponesse anche di un terzo piano. 
-Distanza: 7 min
-Indirizzo: Via San Vitale 28
-Livello di esplorazione: Chiuso
-
-Chiesa di Santa Maria in Porto Fuori
-Informazioni installazione: 
-In quel loco fu' io Pietro Damiano,
-e Pietro Peccator fu' ne la casa
-di Nostra Donna in sul lito adriano. 
-
-Dante nel Canto XXVI del Paradiso incontra Pietro Damiano, citato dal poeta per la sua dottrina retta e austerità della propria vita. Ravennate di nascita, rivive attraverso la Chiesa di Santa Maria in Porto Fuori crollata a seguito dei bombardamenti del 1944 e successivamente ricostruita.
-
-Oltre al monaco camaldolese viene nominato anche Pietro degli Onesti, detto Peccatore che, di ritorno dalla Terra Santa, si ritirò in S. Maria in Fossula (ora, appunto, S. Maria in Porto Fuori). La tradizione racconta che in questa chiesa gli angeli, attraverso il mare, vennero a deporre nelle mani di Pietro il Peccatore l’immagine marmorea della Madonna Greca. La Vergine Orante è attualmente conservata nella basilica di Santa Maria in Porto in Città.
-Distanza: 11 min (auto)
-Indirizzo: Via Don Francesco Fuschini 46
-Livello di esplorazione: Aperto
-Orari: 7.30 – 12.30 | 15.30 – 19.00
-
-Chiesa di Santo Stefano degli Ulivi
-Informazioni installazione: Nell’antico monastero della chiesa di Santo Stefano degli Ulivi, fin dal 1313, fu probabilmente monaca Antonia Alighieri, figlia di Dante, tradizionalmente identificata con il nome di suor Beatrice, che qui morì nel 1371. La chiesa di Santo Stefano degli Ulivi appare menzionata per la prima volta in documenti del X e dell’XI secolo.
-
-L’edificio primitivo si trovava presso il ‘bagno dei Goti’ (ad balneum Gothorum), un edificio termale, mentre la denominazione ‘degli ulivi’ (olivorum) risale probabilmente solo al XIII secolo. Nel 1351 il convento fu unito a quello di S. Maria in Censeda o Conceda (o in Pedriale). Oggi l’edificio ha perso la sua funzione religiosa: infatti è stato caserma dei Vigili del fuoco fino al febbraio del 1988 e successivamente è stata adibita a sede del corpo della Polizia municipale. 
-Distanza: 9 min
-Indirizzo: Via Rocca Brancaleone 6
-Livello di esplorazione: Chiuso
-
-
-Dante non è sempre stato Dante
+## Dante non è sempre stato Dante
 Tavolo Interattivo
 Testo: Le Rime
 Le Rime sono una raccolta di componimenti poetici composti da Dante in un ampio arco di tempo, dalla giovinezza fino ai primi anni dell'esilio, non inclusi da lui nella Vita nuova o nel Convivio: non si tratta pertanto di un'opera progettata coscientemente dall'autore, ma di testi sparsi che gli studiosi moderni hanno organizzato in un'edizione secondo criteri compositivi e soprattutto cronologici. Risulta notevole è la varietà dei temi, anche se prevale una ricerca della sperimentazione, metrica e linguistica, ed è centrale il tema amoroso. In base alla cronologia e ai temi trattati le poesie vengono solitamente suddivise in tre gruppi: rime giovanili, rime “petrose” o della maturità e rime dell'esilio.
@@ -518,7 +339,8 @@ Il tempietto progettato da Camillo Morigia come tomba del poeta presenta molte s
  quindi il simbolo dell’eternità e della ciclicità della vita. 
 
 
-Dante nostro contemporaneo
+## Dante nostro contemporaneo
+
 Tavolo Interattivo
 Testo: De vulgari eloquentia
 Uno dei punti cardine della poetica dantesca consiste nella necessità di comunicare con tutti. Il poeta con questo testo vuole cercare di identificare una lingua che sia di facile comprensione per tutti e che possa essere interpretata da tutti. Il testo è scritto in volgare e venne scritto tra il 1303 e il 1305. Il testo è scritto in latino, infatti Dante vuole rivolgersi ai dotto e ai letterati, abituati ad usare il latino, con lo scopo di fornirgli un manuale per insegnargli a poetare in volgare.
@@ -716,7 +538,8 @@ Andando nelle basiliche di Ravenna e mettendosi ad ammirare le decorazioni musiv
 Notizie su Ravenna
 Durante la permanenza a Ravenna si sa che Dante ha stretto un forte legame con Pietro Giardini, un notaro del posto. Le informazioni che ci sono arrivate di questa amicizia derivano dal "Trattatello in Laude a Dante" di Boccaccio, che incontro alcuni anni dopo Giardini. Il nome di Pietro Giardini apparteneva all'ordine della casa Matha la più antica corporazione di pescatori del mondo ancora oggi attiva all'interno della città di Ravenna con sede presso la Piazzetta del Mercato Coperto della città. Questa sua appartenenza all’ordine è documentata nei registri centenari conservati nelle sale della Casa Matha. La congregazione ancora oggi dopo 5 secoli effettua le riunioni e gli incontri esattamente come accadeva ai tempi di Dante. 
 
-Dante e la patria
+## Dante e la patria
+
 Tavolo Interattivo
 Testo: Epistole Civili
 Sono tredici lettere scritte in latino e indirizzate a vari interlocutori, reali e ideali, concepite da Dante come vere opere letterarie destinate alla pubblicazione. La loro datazione è incerta, anche se furono sicuramente tutte composte durante l'esilio. Dante affronta qui vari argomenti, per lo più politici e relativi alla personale vicenda del suo esilio. La lingua e lo stile sono particolarmente curati, con ampio ricorso agli strumenti retorici e ai dettami delle artes dictandi
