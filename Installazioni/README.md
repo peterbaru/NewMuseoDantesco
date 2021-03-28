@@ -5,5 +5,7 @@ Sono tutte scaricabili e per vederle in funzione è necessario avere una scheda 
 I codici presentati nella sezione di Processing contengono la libreria Syphon per visualizzare i contenuti tramite l'applicativo MadMapper. 
 
 __Installazione 1: "La Ravenna di Dante"__
+
 __Installazione 2: "Pagine dantesche"__
+
 __Installazione 3: "Conversazioni du Dante"__
