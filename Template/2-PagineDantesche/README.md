@@ -1,2 +1,0 @@
-- Schema realizzazione contenuti (formato .ai)
-- Colour Palette
