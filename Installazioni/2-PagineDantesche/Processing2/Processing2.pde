@@ -1,17 +1,26 @@
+// -
+// Installazione "Conversazioni su Dante" della nuova area per il Museo Dantesco dal nome Sui passi di Dante  by peterbaru [Museo Dantesco, Dante Alighieri,  Patrimonio culturale, Ravenna, Interaction Design]
+// 2021 © Pietro Baruzzi, Università degli Studi della Repubblica di San Marino
+// Educational purposes, MIT License, 2021, San Marino
+
 import processing.serial.*;
 import processing.video.*;
 import codeanticode.syphon.*;
 
 Movie Video0; //luce accesa
 Movie Video2; //commedia apertura
+Movie Video3; //commedia frecce
 Movie Video4; //vitanova apertura
+Movie Video5; //vitanova frecce
 Movie Video6; //staifresco
 Movie Video7; //introduzione vita nova
 Movie Video9; //D'Avenia
 
 SyphonServer serverVideo0;
 SyphonServer serverVideo2;
+SyphonServer serverVideo3;
 SyphonServer serverVideo4;
+SyphonServer serverVideo5;
 SyphonServer serverVideo6;
 SyphonServer serverVideo7;
 SyphonServer serverVideo9;
@@ -24,13 +33,15 @@ int seleziona_video =0;
 
 void setup() {
   //fullScreen();
-  size (1322, 944, P3D);
+  size (888, 629, P3D);
   background(0, 0, 0);
 
   Video0 = new Movie(this, "Video0.mp4");
   Video0.play();
 
   Video2 = new Movie(this, "Video2.mp4");
+  Video3 = new Movie(this, "Video3.mp4");
+  Video5 = new Movie(this, "Video5.mp4");
   Video6 = new Movie(this, "Video6.mp4");
 
 
@@ -45,7 +56,9 @@ void setup() {
   
   serverVideo0 = new SyphonServer(this, "Processing Syphon");
   serverVideo2 = new SyphonServer(this, "Processing Syphon");
+  serverVideo3 = new SyphonServer(this, "Processing Syphon");
   serverVideo4 = new SyphonServer(this, "Processing Syphon");
+  serverVideo5 = new SyphonServer(this, "Processing Syphon");
   serverVideo6 = new SyphonServer(this, "Processing Syphon");
   serverVideo7 = new SyphonServer(this, "Processing Syphon");
   serverVideo9 = new SyphonServer(this, "Processing Syphon");
@@ -79,6 +92,7 @@ void serialEvent(Serial p) {
     Video0.stop();
 
     Video2.play();
+    Video3.loop();
     Video6.stop();
 
 
@@ -99,6 +113,7 @@ void serialEvent(Serial p) {
 
 
     Video4.play();
+    Video5.loop();
     Video7.stop();
     Video9.stop();
 
@@ -166,9 +181,19 @@ void draw() {
     break;
   case 2:
     image(Video2, 0, 0, width, height);
+    
+    if (Video2.time() >= 8) {
+    image(Video3, 0, 0, width, height);
+    }
+    
     break;
   case 3:
     image(Video4, 0, 0, width, height);
+    
+    if (Video4.time() >= 5) {
+    image(Video5, 0, 0, width, height);
+    }
+    
     break;
   case 4:
     image(Video6, 0, 0, width, height);
@@ -183,7 +208,9 @@ void draw() {
   
     serverVideo0.sendImage(Video0); 
     serverVideo2.sendImage(Video2); 
+    serverVideo3.sendImage(Video3); 
     serverVideo4.sendImage(Video4); 
+    serverVideo5.sendImage(Video5); 
     serverVideo6.sendImage(Video6); 
     serverVideo7.sendImage(Video7); 
     serverVideo9.sendImage(Video9); 
