@@ -1,6 +1,18 @@
 # Sui Passi Di Dante
 ## Progetto di uno spazio espositivo come laboratorio partecipato permanente
 
+Laureando: __Pietro Baruzzi__ 
+
+Relatore: __Alessandra Bosco__ [+](https://design.unirsm.sm/people/alessandra-bosco/)
+
+Correlatore: __Silvia Gasparotto__ [+](https://design.unirsm.sm/people/silvia-gasparotto/)
+
+Corso di Laurea Magistrale in Design
+
+Università degli Studi della Repubblica di San Marino
+
+A.A. 2019-2020
+
 #### Abstract
 Alla luce delle recenti osservazioni sulla definizione di museo, la tesi propone il progetto per una nuova area per il Museo Dantesco di Ravenna in grado di descrivere la figura di Dante Alighieri e raccontare il suo tempo, migliorando e valorizzando la relazione tra istituzione museale, territorio e comunità locale.
 Il progetto, caratterizzato da una visione multidisciplinare, lavora in maniera trasversale tra le aree dei _museum studies_, le pratiche dell’ _interaction design_, i processi di co-progettazione e lo studio del patrimonio della città di Ravenna.
