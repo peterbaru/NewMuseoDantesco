@@ -1,3 +1,8 @@
+// -
+// Installazione "Pagine dantesche" della nuova area per il Museo Dantesco dal nome Sui passi di Dante  by peterbaru [Museo Dantesco, Dante Alighieri,  Patrimonio culturale, Ravenna, Interaction Design]
+// 2021 © Pietro Baruzzi, Università degli Studi della Repubblica di San Marino
+// Educational purposes, MIT License, 2021, San Marino
+
 #include <MFRC522.h>
 
 #define LED_VERDE 7
