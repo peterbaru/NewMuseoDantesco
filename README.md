@@ -9,7 +9,7 @@ Correlatore: __Silvia Gasparotto__ [+](https://design.unirsm.sm/people/silvia-ga
 
 Corso di Laurea Magistrale in Design
 
-Università degli Studi della Repubblica di San Marino
+[Università degli Studi della Repubblica di San Marino](https://design.unirsm.sm/)
 
 A.A. 2019-2020
 
