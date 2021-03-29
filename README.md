@@ -1,11 +1,11 @@
 # Sui Passi Di Dante
 ## Progetto di uno spazio espositivo come laboratorio partecipato permanente
 
-Laureando: __Pietro Baruzzi__ 
+Laureando: [Pietro Baruzzi](https://www.linkedin.com/in/pietro-baruzzi-b7298b110/)
 
-Relatore: __Alessandra Bosco__ [+](https://design.unirsm.sm/people/alessandra-bosco/)
+Relatore: [Alessandra Bosco](https://design.unirsm.sm/people/alessandra-bosco/)
 
-Correlatore: __Silvia Gasparotto__ [+](https://design.unirsm.sm/people/silvia-gasparotto/)
+Correlatore: [Silvia Gasparotto](https://design.unirsm.sm/people/silvia-gasparotto/)
 
 Corso di Laurea Magistrale in Design
 
