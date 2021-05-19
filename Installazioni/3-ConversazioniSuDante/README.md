@@ -10,6 +10,6 @@ Si compone di:
 - Sensore di distanza a ultrasuoni
 - Proiettore ad alta definizione (FULL HD) a distanza ottica ultra corta.
 
-![Installazione_3](https://scontent-mxp1-1.xx.fbcdn.net/v/t1.0-9/163505146_5572640969442904_989486899999380202_o.jpg?_nc_cat=107&ccb=1-3&_nc_sid=730e14&_nc_ohc=xAWzX3NFyZAAX-6VzPP&_nc_ht=scontent-mxp1-1.xx&oh=cf3dc339aae33ffebd6b69bff9d875ad&oe=6086E336)
+![Installazione_3](https://scontent-fco1-1.xx.fbcdn.net/v/t1.6435-9/163505146_5572640969442904_989486899999380202_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=730e14&_nc_ohc=RPUxiuLB_CYAX8Z02gw&_nc_ht=scontent-fco1-1.xx&oh=23ae8df8e6507c99b00b7b9680731691&oe=60C9BB58)
 
 
