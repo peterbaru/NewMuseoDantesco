@@ -15,5 +15,5 @@ Si compone di:
 - Spessore per Tavolo
 - Proiettore ad alta definizione (FULL HD) a distanza ottica ultra corta.
 
-![Installazione_2](https://scontent-fco1-1.xx.fbcdn.net/v/t1.6435-9/165039239_5572641369442864_4972952308684276881_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=730e14&_nc_ohc=vSeuoAOJC3YAX84cHD1&_nc_ht=scontent-fco1-1.xx&oh=dcb3a8077dac0b035a317a19e7724c8c&oe=60CBF662)
+![Installazione_2](https://media-exp1.licdn.com/dms/image/C4D22AQFzUPU6djcXBA/feedshare-shrink_2048_1536/0/1616670609707?e=1638403200&v=beta&t=D7E-0BrdaWktbsv6dks04pnOZVNDwGL9gkJX80SqMuI)
 
