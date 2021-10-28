@@ -12,4 +12,4 @@ Si compone di:
 - Console 
 - Proiettore ad alta definizione (FULL HD) a distanza ottica ultra corta.
 
-![Installazione_1](https://scontent-fco1-1.xx.fbcdn.net/v/t1.6435-9/p960x960/164792585_5572641019442899_6333238121836285392_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=730e14&_nc_ohc=Cki2JUywVF4AX-lekll&_nc_ht=scontent-fco1-1.xx&tp=6&oh=4de7ae6b465640c23a0cb6df139bc845&oe=60CB869B)
+![Installazione_1](https://media-exp1.licdn.com/dms/image/C4D22AQFnsVl-cUodvA/feedshare-shrink_2048_1536/0/1616670609412?e=1638403200&v=beta&t=NsUmRDVSsJhf1UuvWnjc5ccj6tgf-0biKi_wXxKYwE0)
